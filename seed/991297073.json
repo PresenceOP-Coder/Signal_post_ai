@@ -1,0 +1,173 @@
+{
+  "orgnr": "991297073",
+  "legal_name": "2 BIOLOGISTS DA",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Konsulenttjenester innen: utvikling av undervisningsopplegg, fotografiske oppdrag, kompetanseheving og kartlegging av biologisk mangfold, artikler, bøker og andre informative kilder (natur).",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "H302, Krokliveien 50, 0584 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2007-05-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Ruben Alexander Pettersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073/roller",
+      "retrieved_at": "2026-10-14T14:04:58.8361398Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 991297073"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "82.990",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "2 BIOLOGISTS DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 991297073"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: DA (Ansvarlig selskap med delt ansvar)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "991297073",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 991297073"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "Storms gate 2, 3187 HORTEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2007-09-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2300",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Handel med/produksjon av konsulenttjenester innen utvikling av undervisningsopplegg, fotografiske oppdrag, kompetanseheving, kartlegging av biologisk mangfold og produkter som naturlig hører samme med dette (salg av egenproduserte artikler, bøker og andre informative kilder), samt deltakelse i andre virksomheter innenfor samme bransje.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://www.2biologer.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073",
+      "retrieved_at": "2026-10-14T14:04:55.0857648Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active DA in OSLO, NACE 82.990, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:04:53.4696437Z",
+  "last_changed": "2026-10-14T14:04:53.4696437Z",
+  "created_at": "2026-10-14T14:04:53.4696437Z"
+}

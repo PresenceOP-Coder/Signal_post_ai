@@ -1,0 +1,366 @@
+{
+  "orgnr": "919732725",
+  "legal_name": "00NATION AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Drift av idrettslag og idrettsklubb for sport og e-sport.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Torvveien 19, 1383 ASKER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "contact_page": {
+      "key": "contact_page",
+      "value": "mailto:Contact@00nation.com",
+      "source_url": "https://www.00nation.com",
+      "retrieved_at": "2026-10-12T16:12:17.38498Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page domain matches official registry website with confirmed company name)"
+    },
+    "equity:2022": {
+      "key": "equity",
+      "value": -21177807,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2022)"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": -15921435,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": -35243688,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2024)"
+    },
+    "fiscal_year:2022": {
+      "key": "fiscal_year",
+      "value": "2022",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2022)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2024)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2017-09-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "93.292",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Fritidsvirksomhet ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2024",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "00NATION AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 919732725"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "ASKER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2022": {
+      "key": "net_result",
+      "value": -106733508,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2022)"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": -30024713,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": -50422230,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2024)"
+    },
+    "operating_result:2022": {
+      "key": "operating_result",
+      "value": -22510603,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2022)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": -29314486,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": -33475608,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2024)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "919732725",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 919732725"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2017-10-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2022": {
+      "key": "revenue",
+      "value": 21876027,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2022)"
+    },
+    "revenue:2023": {
+      "key": "revenue",
+      "value": 24331052,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2023)"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 20815071,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2024)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 2130853.2,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "social_links": {
+      "key": "social_links",
+      "value": "https://www.linkedin.com/company/vogue-scandinavia/, https://www.instagram.com/explore/tags/starfield/, https://www.youtube.com/@zerozeronation, https://www.instagram.com/zerozeronation/",
+      "source_url": "https://www.00nation.com",
+      "retrieved_at": "2026-10-12T16:12:17.38498Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page domain matches official registry website with confirmed company name)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Å delta i e-sport, herunder organisering av lag og spillere, samt deltagelse i seriespill og turneringer, nasjonalt og internasjonalt. Selskapet skal videre forestå spillerutvikling, salg og kjøp av spillere samt generell drift av idrettsklubb. Selskapet kan også forestå utvikling og salg av audiovisuelt innhold, herunder også apper og programmer. Selskapet kan yte konsulenttjenester.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2022": {
+      "key": "total_assets",
+      "value": 7876961,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2022)"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 20184415,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 8928815,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919732725",
+      "retrieved_at": "2026-10-12T16:12:15.711015Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919732725 (FY2024)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://www.00nation.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919732725",
+      "retrieved_at": "2026-10-14T14:00:49.0862576Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in ASKER, NACE 93.292, Employee count not registered. Annual accounts for FY2024 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:47.4164667Z",
+  "last_changed": "2026-10-12T16:12:13.604174Z",
+  "created_at": "2026-10-12T16:12:13.604174Z"
+}

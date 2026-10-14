@@ -1,0 +1,118 @@
+{
+  "orgnr": "921791453",
+  "legal_name": "0936245 B.C. LTD",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "skaffe ingeniører til olje- og gassprosjekter.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921791453",
+      "retrieved_at": "2026-10-14T14:00:53.4609757Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "126 Blackberry Drive, ANMORE B.C. V3H 5B4, Canada",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921791453",
+      "retrieved_at": "2026-10-14T14:00:53.4609757Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921791453",
+      "retrieved_at": "2026-10-14T14:00:53.4609757Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "09.109",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921791453",
+      "retrieved_at": "2026-10-14T14:00:53.4609757Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Andre tjenester tilknyttet utvinning av råolje og naturgass",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921791453",
+      "retrieved_at": "2026-10-14T14:00:53.4609757Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "0936245 B.C. LTD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921791453",
+      "retrieved_at": "2026-10-14T14:00:53.4609757Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 921791453"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921791453",
+      "retrieved_at": "2026-10-14T14:00:53.4609757Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: NUF (Norskregistrert utenlandsk foretak)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "921791453",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921791453",
+      "retrieved_at": "2026-10-14T14:00:53.4609757Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 921791453"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "c/o EIC Oil \u0026 Gas AS, Askveien 2, 1446 DRØBAK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921791453",
+      "retrieved_at": "2026-10-14T14:00:53.4609757Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2018-12-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921791453",
+      "retrieved_at": "2026-10-14T14:00:53.4609757Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921791453",
+      "retrieved_at": "2026-10-14T14:00:53.4609757Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921791453",
+      "retrieved_at": "2026-10-14T14:00:53.4609757Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active entity, NACE 09.109, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:51.7723122Z",
+  "last_changed": "2026-10-12T16:12:26.2540067Z",
+  "created_at": "2026-10-12T16:12:26.2540067Z"
+}

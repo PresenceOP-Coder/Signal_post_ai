@@ -1,0 +1,173 @@
+{
+  "orgnr": "996012379",
+  "legal_name": "1VENNESLA SPEIDERGRUPPE",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "1Vennesla Speidergruppe er tilknyttet Norges speiderforbund og følger Norges Speiderforbunds formål, vedtekter og lover. 1Vennesla speidergruppe er registrert som gruppe nr. 3534 i Norges speiderforbund.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "c/o Jon Inge Steinsland, Tvidøblane 66, 4700 VENNESLA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Jon Inge Steinsland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379/roller",
+      "retrieved_at": "2026-10-14T14:04:54.9611492Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 996012379"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "1921-06-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Jon Inge Steinsland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379/roller",
+      "retrieved_at": "2026-10-14T14:04:54.9611492Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 996012379"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1VENNESLA SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 996012379"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "VENNESLA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "996012379",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 996012379"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "Postboks 255, 4700 VENNESLA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2010-10-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://1vennesla.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379",
+      "retrieved_at": "2026-10-14T14:04:51.2110285Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in VENNESLA, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:04:49.5958509Z",
+  "last_changed": "2026-10-14T14:04:49.5958509Z",
+  "created_at": "2026-10-14T14:04:49.5958509Z"
+}

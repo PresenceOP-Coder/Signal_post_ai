@@ -1,0 +1,376 @@
+{
+  "orgnr": "931537741",
+  "legal_name": "'LIFT' M...UP AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Tjenesteyting innan omsorg og miljøterapi. Bidra med rådgjeving som erfaringskonsulent. Tilsyn, oppfølging og veiledning som er med å forebygge psykisk og fysisk helse. Kreativ ideskaping, undervisning, kurs, foredrag og prosjekt/miljøutvikling. Varehandel, vareproduksjon og liknande virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Lysthaugen 4, 6800 FØRDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": 23620,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931537741",
+      "retrieved_at": "2026-10-12T16:08:22.3633186Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931537741 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": -8148,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931537741",
+      "retrieved_at": "2026-10-12T16:08:22.3633186Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931537741 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": -28631,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931537741",
+      "retrieved_at": "2026-10-12T16:08:22.3633186Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931537741 (FY2025)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931537741",
+      "retrieved_at": "2026-10-12T16:08:22.3633186Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931537741 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931537741",
+      "retrieved_at": "2026-10-12T16:08:22.3633186Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931537741 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931537741",
+      "retrieved_at": "2026-10-12T16:08:22.3633186Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931537741 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2023-05-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "88.996",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Andre sosialtjenester uten botilbud ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "'LIFT' M...UP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 931537741"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "SUNNFJORD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": -6380,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931537741",
+      "retrieved_at": "2026-10-12T16:08:22.3633186Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931537741 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": -31768,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931537741",
+      "retrieved_at": "2026-10-12T16:08:22.3633186Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931537741 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": -20513,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931537741",
+      "retrieved_at": "2026-10-12T16:08:22.3633186Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931537741 (FY2025)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": -6393,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931537741",
+      "retrieved_at": "2026-10-12T16:08:22.3633186Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931537741 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": -31779,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931537741",
+      "retrieved_at": "2026-10-12T16:08:22.3633186Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931537741 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": -20516,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931537741",
+      "retrieved_at": "2026-10-12T16:08:22.3633186Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931537741 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "931537741",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 931537741"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2023-06-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 30000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Omsorg og miljøterapi: bidra med rådgjeving frå erfaringskonsulent, tilsyn, oppfølging og ulik veiledning som er med å forebygge psykisk og fysisk helse. Kreativ ideskaping: kommunikasjon, undervisning, kurs, foredrag, menneskerelatert prosjektutvikling, urban miljøutvikling, kursvirksomhet, varehandel, vareproduksjon og liknande virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 23620,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931537741",
+      "retrieved_at": "2026-10-12T16:08:22.3633186Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931537741 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 14432,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931537741",
+      "retrieved_at": "2026-10-12T16:08:22.3633186Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931537741 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 435,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931537741",
+      "retrieved_at": "2026-10-12T16:08:22.3633186Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931537741 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "retrieved_at": "2026-10-14T14:00:40.5859926Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [
+    {
+      "key": "activity_description",
+      "old_value": null,
+      "new_value": "Tjenesteyting innan omsorg og miljøterapi. Bidra med rådgjeving som erfaringskonsulent. Tilsyn, oppfølging og veiledning som er med å forebygge psykisk og fysisk helse. Kreativ ideskaping, undervisning, kurs, foredrag og prosjekt/miljøutvikling. Varehandel, vareproduksjon og liknande virksomhet.",
+      "changed_at": "2026-10-12T16:11:17.647577Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "reason": "Fact activity_description added"
+    },
+    {
+      "key": "statutory_purpose",
+      "old_value": null,
+      "new_value": "Omsorg og miljøterapi: bidra med rådgjeving frå erfaringskonsulent, tilsyn, oppfølging og ulik veiledning som er med å forebygge psykisk og fysisk helse. Kreativ ideskaping: kommunikasjon, undervisning, kurs, foredrag, menneskerelatert prosjektutvikling, urban miljøutvikling, kursvirksomhet, varehandel, vareproduksjon og liknande virksomhet.",
+      "changed_at": "2026-10-12T16:11:17.647577Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "reason": "Fact statutory_purpose added"
+    },
+    {
+      "key": "business_register_status",
+      "old_value": null,
+      "new_value": true,
+      "changed_at": "2026-10-12T16:11:17.647577Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "reason": "Fact business_register_status added"
+    },
+    {
+      "key": "share_capital",
+      "old_value": null,
+      "new_value": 30000,
+      "changed_at": "2026-10-12T16:11:17.647577Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "reason": "Fact share_capital added"
+    },
+    {
+      "key": "sector_code",
+      "old_value": null,
+      "new_value": "2100",
+      "changed_at": "2026-10-12T16:11:17.647577Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "reason": "Fact sector_code added"
+    },
+    {
+      "key": "sector_description",
+      "old_value": null,
+      "new_value": "Private aksjeselskaper mv.",
+      "changed_at": "2026-10-12T16:11:17.647577Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "reason": "Fact sector_description added"
+    },
+    {
+      "key": "latest_accounts_year",
+      "old_value": null,
+      "new_value": "2025",
+      "changed_at": "2026-10-12T16:11:17.647577Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931537741",
+      "reason": "Fact latest_accounts_year added"
+    }
+  ],
+  "summary": "Active AS in SUNNFJORD, NACE 88.996, Employee count not registered. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "New fact activity_description recorded as Tjenesteyting innan omsorg og miljøterapi. Bidra med rådgjeving som erfaringskonsulent. Tilsyn, oppfølging og veiledning som er med å forebygge psykisk og fysisk helse. Kreativ ideskaping, undervisning, kurs, foredrag og prosjekt/miljøutvikling. Varehandel, vareproduksjon og liknande virksomhet. on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/931537741)",
+    "New fact statutory_purpose recorded as Omsorg og miljøterapi: bidra med rådgjeving frå erfaringskonsulent, tilsyn, oppfølging og ulik veiledning som er med å forebygge psykisk og fysisk helse. Kreativ ideskaping: kommunikasjon, undervisning, kurs, foredrag, menneskerelatert prosjektutvikling, urban miljøutvikling, kursvirksomhet, varehandel, vareproduksjon og liknande virksomhet. on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/931537741)",
+    "New fact business_register_status recorded as true on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/931537741)",
+    "New fact share_capital recorded as 30000 on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/931537741)",
+    "New fact sector_code recorded as 2100 on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/931537741)",
+    "New fact sector_description recorded as Private aksjeselskaper mv. on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/931537741)",
+    "New fact latest_accounts_year recorded as 2025 on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/931537741)"
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:40.5123906Z",
+  "last_changed": "2026-10-12T16:11:17.647577Z",
+  "created_at": "2026-10-12T16:08:20.1511207Z"
+}

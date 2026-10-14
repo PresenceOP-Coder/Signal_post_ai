@@ -1,0 +1,150 @@
+{
+  "orgnr": "934469488",
+  "legal_name": "1000 BALLONGER DA",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Utøvende kunstnere og underholdningsvirksomhet innen musikk.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488",
+      "retrieved_at": "2026-10-14T14:01:42.586048Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "c/o Martin Andersson, Inga Gulbrandsens veg 6, 2069 JESSHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488",
+      "retrieved_at": "2026-10-14T14:01:42.586048Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488",
+      "retrieved_at": "2026-10-14T14:01:42.586048Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2024-11-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488",
+      "retrieved_at": "2026-10-14T14:01:42.586048Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "90.201",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488",
+      "retrieved_at": "2026-10-14T14:01:42.586048Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488",
+      "retrieved_at": "2026-10-14T14:01:42.586048Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1000 BALLONGER DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488",
+      "retrieved_at": "2026-10-14T14:01:42.586048Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 934469488"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "ULLENSAKER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488",
+      "retrieved_at": "2026-10-14T14:01:42.586048Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488",
+      "retrieved_at": "2026-10-14T14:01:42.586048Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: DA (Ansvarlig selskap med delt ansvar)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "934469488",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488",
+      "retrieved_at": "2026-10-14T14:01:42.586048Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 934469488"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2024-11-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488",
+      "retrieved_at": "2026-10-14T14:01:42.586048Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2300",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488",
+      "retrieved_at": "2026-10-14T14:01:42.586048Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488",
+      "retrieved_at": "2026-10-14T14:01:42.586048Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488",
+      "retrieved_at": "2026-10-14T14:01:42.586048Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Produksjon av musikk og annen virksomhet som naturlig hører sammen med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488",
+      "retrieved_at": "2026-10-14T14:01:42.586048Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488",
+      "retrieved_at": "2026-10-14T14:01:42.586048Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active DA in ULLENSAKER, NACE 90.201, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:01:41.0786488Z",
+  "last_changed": "2026-10-14T14:01:41.0786488Z",
+  "created_at": "2026-10-14T14:01:41.0786488Z"
+}

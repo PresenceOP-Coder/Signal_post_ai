@@ -1,0 +1,157 @@
+{
+  "orgnr": "934057813",
+  "legal_name": "131 LV VELFERDSKASSE",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Vi på avdelingen vår i Forsvaret ønsker å opprette en forening, for å drive en frivillig, 0 profitts velferds kiosk i pauserommet vårt. Her ønsker vi å selge i hovedsak brus, proteindrikke, juice og energidrikk, og kanskje proteinbarer til innkjøpspris + 10% for å dekke faste utgifter og svinn. Den evt profitten vil bli brukt på velferdsgoder, som en velferdstur, snacks til en fjelltur el.l. ut i fra hvor mye vi skulle ende med å gå i plus.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813",
+      "retrieved_at": "2026-10-14T14:02:50.8360439Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "131 LV m/Bardufoss Flystasjon, Postmottak, Kapellveien 2, 9325 BARDUFOSS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813",
+      "retrieved_at": "2026-10-14T14:02:50.8360439Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813",
+      "retrieved_at": "2026-10-14T14:02:50.8360439Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Magrit Solvang Vevatne",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813/roller",
+      "retrieved_at": "2026-10-14T14:02:54.5861337Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 934057813"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "98 90 22 91",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813",
+      "retrieved_at": "2026-10-14T14:02:50.8360439Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2024-09-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813",
+      "retrieved_at": "2026-10-14T14:02:50.8360439Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813",
+      "retrieved_at": "2026-10-14T14:02:50.8360439Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813",
+      "retrieved_at": "2026-10-14T14:02:50.8360439Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "131 LV VELFERDSKASSE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813",
+      "retrieved_at": "2026-10-14T14:02:50.8360439Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 934057813"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "MÅLSELV",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813",
+      "retrieved_at": "2026-10-14T14:02:50.8360439Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813",
+      "retrieved_at": "2026-10-14T14:02:50.8360439Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "934057813",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813",
+      "retrieved_at": "2026-10-14T14:02:50.8360439Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 934057813"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2024-09-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813",
+      "retrieved_at": "2026-10-14T14:02:50.8360439Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813",
+      "retrieved_at": "2026-10-14T14:02:50.8360439Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813",
+      "retrieved_at": "2026-10-14T14:02:50.8360439Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813",
+      "retrieved_at": "2026-10-14T14:02:50.8360439Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813",
+      "retrieved_at": "2026-10-14T14:02:50.8360439Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in MÅLSELV, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:02:49.1979193Z",
+  "last_changed": "2026-10-14T14:02:49.1979193Z",
+  "created_at": "2026-10-14T14:02:49.1979193Z"
+}

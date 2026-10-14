@@ -1,0 +1,150 @@
+{
+  "orgnr": "913657063",
+  "legal_name": "17.MAI NEMNDA I TYSNES",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Arrangere 17.mai feiring i tilknytning til skulekrinsane for Tysnes skule og Uggdal skule.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063",
+      "retrieved_at": "2026-10-14T14:03:48.8360997Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063",
+      "retrieved_at": "2026-10-14T14:03:48.8360997Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Elin Bergesen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063/roller",
+      "retrieved_at": "2026-10-14T14:03:52.8361063Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 913657063"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2014-04-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063",
+      "retrieved_at": "2026-10-14T14:03:48.8360997Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063",
+      "retrieved_at": "2026-10-14T14:03:48.8360997Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063",
+      "retrieved_at": "2026-10-14T14:03:48.8360997Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "17.MAI NEMNDA I TYSNES",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063",
+      "retrieved_at": "2026-10-14T14:03:48.8360997Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 913657063"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "TYSNES",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063",
+      "retrieved_at": "2026-10-14T14:03:48.8360997Z",
+      "origin": "registry",
+      "evidence": "Municipality of postal address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063",
+      "retrieved_at": "2026-10-14T14:03:48.8360997Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "913657063",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063",
+      "retrieved_at": "2026-10-14T14:03:48.8360997Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 913657063"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "c/o Øyvind Hope, Grønåsen 6, 5680 TYSNES",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063",
+      "retrieved_at": "2026-10-14T14:03:48.8360997Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2014-05-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063",
+      "retrieved_at": "2026-10-14T14:03:48.8360997Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063",
+      "retrieved_at": "2026-10-14T14:03:48.8360997Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063",
+      "retrieved_at": "2026-10-14T14:03:48.8360997Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063",
+      "retrieved_at": "2026-10-14T14:03:48.8360997Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063",
+      "retrieved_at": "2026-10-14T14:03:48.8360997Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in TYSNES, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:03:47.1015612Z",
+  "last_changed": "2026-10-14T14:03:47.1015612Z",
+  "created_at": "2026-10-14T14:03:47.1015612Z"
+}

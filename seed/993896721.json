@@ -1,0 +1,173 @@
+{
+  "orgnr": "993896721",
+  "legal_name": "1. STOKMARKNES SPEIDERGRUPPE",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "1. Stokmarknes Speidergruppes formål er å utvikle mennesker til selvstendighet og til å ta aktivt ansvar i samfunn i samsvar med idealene fra speiderløftet og speiderloven.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Ann-Katrin Grimstad, Rådhusgata 1, 8450 STOKMARKNES",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Ann Katrin Grimstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721/roller",
+      "retrieved_at": "2026-10-14T14:01:16.3358141Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 993896721"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "76 15 26 96",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "1929-03-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Ann Katrin Grimstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721/roller",
+      "retrieved_at": "2026-10-14T14:01:16.3358141Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 993896721"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1. STOKMARKNES SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 993896721"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "HADSEL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "993896721",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 993896721"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "Postboks 26, 8455 STOKMARKNES",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2009-04-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721",
+      "retrieved_at": "2026-10-14T14:01:12.8357678Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in HADSEL, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:01:11.1122264Z",
+  "last_changed": "2026-10-14T14:01:11.1122264Z",
+  "created_at": "2026-10-14T14:01:11.1122264Z"
+}

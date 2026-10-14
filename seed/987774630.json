@@ -1,0 +1,150 @@
+{
+  "orgnr": "987774630",
+  "legal_name": "127DB",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Skape nye kunstuttrykk som kan konkurrere med kommersielle uttrykk. Øke oppmerksomheten rundt og interessen for nye kunstuttrykk. Bidra til en kompetanseheving av profesjonelle, amatører og det potensielle publikum. Alltid forsøke å initiere aktiviteter som henter fram det beste av humør og arbeidslyst hos sine medlemmer.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630",
+      "retrieved_at": "2026-10-14T14:02:41.8360985Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Rostedsgate 12 A, 0187 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630",
+      "retrieved_at": "2026-10-14T14:02:41.8360985Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630",
+      "retrieved_at": "2026-10-14T14:02:41.8360985Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Therese Birkelund Ulvo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630/roller",
+      "retrieved_at": "2026-10-14T14:02:45.4610268Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 987774630"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2005-01-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630",
+      "retrieved_at": "2026-10-14T14:02:41.8360985Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630",
+      "retrieved_at": "2026-10-14T14:02:41.8360985Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630",
+      "retrieved_at": "2026-10-14T14:02:41.8360985Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "127DB",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630",
+      "retrieved_at": "2026-10-14T14:02:41.8360985Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 987774630"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630",
+      "retrieved_at": "2026-10-14T14:02:41.8360985Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630",
+      "retrieved_at": "2026-10-14T14:02:41.8360985Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "987774630",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630",
+      "retrieved_at": "2026-10-14T14:02:41.8360985Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 987774630"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2005-02-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630",
+      "retrieved_at": "2026-10-14T14:02:41.8360985Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630",
+      "retrieved_at": "2026-10-14T14:02:41.8360985Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630",
+      "retrieved_at": "2026-10-14T14:02:41.8360985Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630",
+      "retrieved_at": "2026-10-14T14:02:41.8360985Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630",
+      "retrieved_at": "2026-10-14T14:02:41.8360985Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in OSLO, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:02:40.2114733Z",
+  "last_changed": "2026-10-14T14:02:40.2114733Z",
+  "created_at": "2026-10-14T14:02:40.2114733Z"
+}

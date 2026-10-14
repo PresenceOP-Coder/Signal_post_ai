@@ -1,0 +1,6 @@
+# Norwegian Organisation Numbers Test Input
+923609016
+974760673
+979860021
+984661185
+984851006

@@ -1,0 +1,233 @@
+{
+  "orgnr": "935435331",
+  "legal_name": "1INCH INNREDNING AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Snekkerarbeid, montering av dører, vinduer, kjøkken med mer. Tømrer, oppføring og vedlikehold av bygninger.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Frøyas gate 12, 0273 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "employee_count": {
+      "key": "employee_count",
+      "value": 38,
+      "unit": "count",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Registered employee count in NAV/Enhetsregisteret"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 188729,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935435331",
+      "retrieved_at": "2026-10-14T14:04:39.2111962Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 935435331 (FY2025)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935435331",
+      "retrieved_at": "2026-10-14T14:04:39.2111962Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 935435331 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2025-02-28",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "43.320",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Snekkerarbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1INCH INNREDNING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 935435331"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": 158729,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935435331",
+      "retrieved_at": "2026-10-14T14:04:39.2111962Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 935435331 (FY2025)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": 214901,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935435331",
+      "retrieved_at": "2026-10-14T14:04:39.2111962Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 935435331 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "935435331",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 935435331"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2025-05-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 13803361,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935435331",
+      "retrieved_at": "2026-10-14T14:04:39.2111962Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 935435331 (FY2025)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 30000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Salg av varer og tjenester innen innredning av bygg, samt annet som naturlig hører inn under dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 4517828,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935435331",
+      "retrieved_at": "2026-10-14T14:04:39.2111962Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 935435331 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935435331",
+      "retrieved_at": "2026-10-14T14:04:37.4614058Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in OSLO, NACE 43.320, 38 employees. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:04:35.9824022Z",
+  "last_changed": "2026-10-14T14:04:35.9824022Z",
+  "created_at": "2026-10-14T14:04:35.9824022Z"
+}

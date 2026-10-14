@@ -1,0 +1,150 @@
+{
+  "orgnr": "936285139",
+  "legal_name": "2019-KULLET VED NORHEIMSUND SKULE KLASSEKASSE",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Foreininga samlar inn og forvaltar midlar til felles aktivitetar og innkjøp som kjem elevane til gode. Dette kan vere til dømes sosiale samlingar, turar eller innkjøp av leiker og utstyr som fremjar fellesskap og trivsel.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139",
+      "retrieved_at": "2026-10-14T14:05:46.5859244Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Gamle Sandvenvegen 27, 5600 NORHEIMSUND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139",
+      "retrieved_at": "2026-10-14T14:05:46.5859244Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139",
+      "retrieved_at": "2026-10-14T14:05:46.5859244Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Maren Benedikte Birkeland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139/roller",
+      "retrieved_at": "2026-10-14T14:05:49.7110016Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 936285139"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2025-09-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139",
+      "retrieved_at": "2026-10-14T14:05:46.5859244Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139",
+      "retrieved_at": "2026-10-14T14:05:46.5859244Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139",
+      "retrieved_at": "2026-10-14T14:05:46.5859244Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "2019-KULLET VED NORHEIMSUND SKULE KLASSEKASSE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139",
+      "retrieved_at": "2026-10-14T14:05:46.5859244Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 936285139"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "KVAM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139",
+      "retrieved_at": "2026-10-14T14:05:46.5859244Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139",
+      "retrieved_at": "2026-10-14T14:05:46.5859244Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "936285139",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139",
+      "retrieved_at": "2026-10-14T14:05:46.5859244Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 936285139"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2025-11-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139",
+      "retrieved_at": "2026-10-14T14:05:46.5859244Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139",
+      "retrieved_at": "2026-10-14T14:05:46.5859244Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139",
+      "retrieved_at": "2026-10-14T14:05:46.5859244Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139",
+      "retrieved_at": "2026-10-14T14:05:46.5859244Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139",
+      "retrieved_at": "2026-10-14T14:05:46.5859244Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in KVAM, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:05:44.8345977Z",
+  "last_changed": "2026-10-14T14:05:44.8345977Z",
+  "created_at": "2026-10-14T14:05:44.8345977Z"
+}

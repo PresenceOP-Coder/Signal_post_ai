@@ -1,0 +1,359 @@
+{
+  "orgnr": "926800337",
+  "legal_name": "19LFS AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Konsulent og instalasjon av Jack up rigger, for drilling, vedlikehold og geotekniske undersøkelser, som også inkluderer, instalering av plattformer og fundamenter for olje, gass og vind farmer. I tillegg kommer det til å være spesial kurser som er for olje, gass og vind ansatte, World Wide.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Liang 7A, 4018 STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Arne Sømme",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337/roller",
+      "retrieved_at": "2026-10-14T14:04:33.3357215Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 926800337"
+    },
+    "equity:2021": {
+      "key": "equity",
+      "value": 25655,
+      "unit": "NOK",
+      "period": "2021",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2021)"
+    },
+    "equity:2022": {
+      "key": "equity",
+      "value": 30111,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2022)"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": -98174,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2023)"
+    },
+    "fiscal_year:2021": {
+      "key": "fiscal_year",
+      "value": "2021",
+      "period": "2021",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2021)"
+    },
+    "fiscal_year:2022": {
+      "key": "fiscal_year",
+      "value": "2022",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2022)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2023)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2021-03-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Arne Sømme",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337/roller",
+      "retrieved_at": "2026-10-14T14:04:33.3357215Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 926800337"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "71.129",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Annen teknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2023",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "19LFS AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 926800337"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2021": {
+      "key": "net_result",
+      "value": 1225,
+      "unit": "NOK",
+      "period": "2021",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2021)"
+    },
+    "net_result:2022": {
+      "key": "net_result",
+      "value": 153956,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2022)"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": -128285,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2023)"
+    },
+    "operating_result:2021": {
+      "key": "operating_result",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2021",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2021)"
+    },
+    "operating_result:2022": {
+      "key": "operating_result",
+      "value": 224636,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2022)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": -161514,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2023)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "926800337",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 926800337"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2021-03-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2021": {
+      "key": "revenue",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2021",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2021)"
+    },
+    "revenue:2022": {
+      "key": "revenue",
+      "value": 1580834,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2022)"
+    },
+    "revenue:2023": {
+      "key": "revenue",
+      "value": 1542018,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2023)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 30000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Konsulenttjeneseter til olje, gass og vind innen posisjonering av enheter plattformer og Mono piles, samtidig treningskonsulent for offshore ansatte, World Wide.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2021": {
+      "key": "total_assets",
+      "value": 31225,
+      "unit": "NOK",
+      "period": "2021",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2021)"
+    },
+    "total_assets:2022": {
+      "key": "total_assets",
+      "value": 460158,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2022)"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 310265,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926800337",
+      "retrieved_at": "2026-10-14T14:04:31.3360584Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926800337 (FY2023)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337",
+      "retrieved_at": "2026-10-14T14:04:29.3360046Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in STAVANGER, NACE 71.129, Employee count not registered. Annual accounts for FY2023 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:04:27.6161184Z",
+  "last_changed": "2026-10-14T14:04:27.6161184Z",
+  "created_at": "2026-10-14T14:04:27.6161184Z"
+}

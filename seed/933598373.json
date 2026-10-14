@@ -1,0 +1,134 @@
+{
+  "orgnr": "933598373",
+  "legal_name": "1970 FOLDØY",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Markedsføring og reklame. PR og kommunikasjonstjenester. Etterarbeid knyttet til prod. av film, video og fjernsynsprogrammer. Fotograf.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933598373",
+      "retrieved_at": "2026-10-14T14:04:19.3361471Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Vidjevegen 6, 4056 TANANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933598373",
+      "retrieved_at": "2026-10-14T14:04:19.3361471Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933598373",
+      "retrieved_at": "2026-10-14T14:04:19.3361471Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "73.110",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933598373",
+      "retrieved_at": "2026-10-14T14:04:19.3361471Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Reklamebyråvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933598373",
+      "retrieved_at": "2026-10-14T14:04:19.3361471Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1970 FOLDØY",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933598373",
+      "retrieved_at": "2026-10-14T14:04:19.3361471Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 933598373"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "SOLA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933598373",
+      "retrieved_at": "2026-10-14T14:04:19.3361471Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ENK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933598373",
+      "retrieved_at": "2026-10-14T14:04:19.3361471Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ENK (Enkeltpersonforetak)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "933598373",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933598373",
+      "retrieved_at": "2026-10-14T14:04:19.3361471Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 933598373"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2024-06-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933598373",
+      "retrieved_at": "2026-10-14T14:04:19.3361471Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "8200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933598373",
+      "retrieved_at": "2026-10-14T14:04:19.3361471Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933598373",
+      "retrieved_at": "2026-10-14T14:04:19.3361471Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933598373",
+      "retrieved_at": "2026-10-14T14:04:19.3361471Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933598373",
+      "retrieved_at": "2026-10-14T14:04:19.3361471Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active ENK in SOLA, NACE 73.110, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:04:17.5803975Z",
+  "last_changed": "2026-10-14T14:04:17.5803975Z",
+  "created_at": "2026-10-14T14:04:17.5803975Z"
+}

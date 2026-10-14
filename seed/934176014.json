@@ -1,0 +1,142 @@
+{
+  "orgnr": "934176014",
+  "legal_name": "*SER DEG*TRAFIKKSKOLE HARSTAD CONNIE HAJANI",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Undervisning i klassene B, B96 og BE.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934176014",
+      "retrieved_at": "2026-10-14T14:00:44.4610388Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Strandveien 73, 9442 RAMSUND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934176014",
+      "retrieved_at": "2026-10-14T14:00:44.4610388Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934176014",
+      "retrieved_at": "2026-10-14T14:00:44.4610388Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Connie Hajani",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934176014/roller",
+      "retrieved_at": "2026-10-12T16:12:02.710277Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 934176014"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "85.532",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934176014",
+      "retrieved_at": "2026-10-14T14:00:44.4610388Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Annen trafikkskoleundervisning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934176014",
+      "retrieved_at": "2026-10-14T14:00:44.4610388Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "*SER DEG*TRAFIKKSKOLE HARSTAD CONNIE HAJANI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934176014",
+      "retrieved_at": "2026-10-14T14:00:44.4610388Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 934176014"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "TJELDSUND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934176014",
+      "retrieved_at": "2026-10-14T14:00:44.4610388Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ENK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934176014",
+      "retrieved_at": "2026-10-14T14:00:44.4610388Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ENK (Enkeltpersonforetak)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "934176014",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934176014",
+      "retrieved_at": "2026-10-14T14:00:44.4610388Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 934176014"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2024-09-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934176014",
+      "retrieved_at": "2026-10-14T14:00:44.4610388Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "8200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934176014",
+      "retrieved_at": "2026-10-14T14:00:44.4610388Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934176014",
+      "retrieved_at": "2026-10-14T14:00:44.4610388Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934176014",
+      "retrieved_at": "2026-10-14T14:00:44.4610388Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934176014",
+      "retrieved_at": "2026-10-14T14:00:44.4610388Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active ENK in TJELDSUND, NACE 85.532, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:43.0161748Z",
+  "last_changed": "2026-10-12T16:12:00.9659201Z",
+  "created_at": "2026-10-12T16:12:00.9659201Z"
+}

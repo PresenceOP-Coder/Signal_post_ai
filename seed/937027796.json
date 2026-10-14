@@ -1,0 +1,175 @@
+{
+  "orgnr": "937027796",
+  "legal_name": "2.ETG AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Drift av pub.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Rådhusgata 22, 4200 SAUDA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Alexander Hauge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796/roller",
+      "retrieved_at": "2026-10-14T14:05:30.4609977Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 937027796"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2026-01-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Alexander Hauge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796/roller",
+      "retrieved_at": "2026-10-14T14:05:30.4609977Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 937027796"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "56.300",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Drift av barer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "2.ETG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 937027796"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "SAUDA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "937027796",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 937027796"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2026-01-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 30000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Selge varer og tjenester innen pubdrift og annet som naturlig sammenfaller med dette, samt deltakelse i andre selskaper, investeringer og nærliggende virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796",
+      "retrieved_at": "2026-10-14T14:05:26.9609148Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in SAUDA, NACE 56.300, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:05:25.2268947Z",
+  "last_changed": "2026-10-14T14:05:25.2268947Z",
+  "created_at": "2026-10-14T14:05:25.2268947Z"
+}

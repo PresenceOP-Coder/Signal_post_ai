@@ -1,0 +1,284 @@
+{
+  "orgnr": "933741958",
+  "legal_name": "123 SUSHI 2 AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Drift av restaurant/kafe.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Strømsveien 82B, 2010 STRØMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": 20474,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933741958",
+      "retrieved_at": "2026-10-14T14:02:34.336135Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 933741958 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 18089,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933741958",
+      "retrieved_at": "2026-10-14T14:02:34.336135Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 933741958 (FY2025)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933741958",
+      "retrieved_at": "2026-10-14T14:02:34.336135Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 933741958 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933741958",
+      "retrieved_at": "2026-10-14T14:02:34.336135Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 933741958 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2024-06-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "56.110",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Drift av restauranter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "123 SUSHI 2 AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 933741958"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "LILLESTRØM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": -3742,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933741958",
+      "retrieved_at": "2026-10-14T14:02:34.336135Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 933741958 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": -2385,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933741958",
+      "retrieved_at": "2026-10-14T14:02:34.336135Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 933741958 (FY2025)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": -3742,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933741958",
+      "retrieved_at": "2026-10-14T14:02:34.336135Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 933741958 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": -2385,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933741958",
+      "retrieved_at": "2026-10-14T14:02:34.336135Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 933741958 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "933741958",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 933741958"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2024-07-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933741958",
+      "retrieved_at": "2026-10-14T14:02:34.336135Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 933741958 (FY2024)"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933741958",
+      "retrieved_at": "2026-10-14T14:02:34.336135Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 933741958 (FY2025)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 30000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Selge varer og tjenester innen restaurantdrift - og annet som naturlig sammenfaller med dette - samt deltakelse i andre selskaper, investeringer og nærliggende virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 21831,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933741958",
+      "retrieved_at": "2026-10-14T14:02:34.336135Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 933741958 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 19446,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933741958",
+      "retrieved_at": "2026-10-14T14:02:34.336135Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 933741958 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958",
+      "retrieved_at": "2026-10-14T14:02:32.4611425Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in LILLESTRØM, NACE 56.110, Employee count not registered. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:02:30.9880384Z",
+  "last_changed": "2026-10-14T14:02:30.9880384Z",
+  "created_at": "2026-10-14T14:02:30.9880384Z"
+}

@@ -1,0 +1,109 @@
+{
+  "orgnr": "980631443",
+  "legal_name": "20:20 LOGISTICS LTD",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Hovedforetak.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980631443",
+      "retrieved_at": "2026-10-14T14:05:29.2111171Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Crew Hall Enterprice Park, Weston Road, CW16UE  CHESHIRE, ENGLAND, Storbritannia",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980631443",
+      "retrieved_at": "2026-10-14T14:05:29.2111171Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980631443",
+      "retrieved_at": "2026-10-14T14:05:29.2111171Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "441270412020",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980631443",
+      "retrieved_at": "2026-10-14T14:05:29.2111171Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "1996-10-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980631443",
+      "retrieved_at": "2026-10-14T14:05:29.2111171Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "20:20 LOGISTICS LTD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980631443",
+      "retrieved_at": "2026-10-14T14:05:29.2111171Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 980631443"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "UTLA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980631443",
+      "retrieved_at": "2026-10-14T14:05:29.2111171Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: UTLA (Utenlandsk enhet)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "980631443",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980631443",
+      "retrieved_at": "2026-10-14T14:05:29.2111171Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 980631443"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "1999-03-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980631443",
+      "retrieved_at": "2026-10-14T14:05:29.2111171Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980631443",
+      "retrieved_at": "2026-10-14T14:05:29.2111171Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980631443",
+      "retrieved_at": "2026-10-14T14:05:29.2111171Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active entity, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:05:27.5876502Z",
+  "last_changed": "2026-10-14T14:05:27.5876502Z",
+  "created_at": "2026-10-14T14:05:27.5876502Z"
+}

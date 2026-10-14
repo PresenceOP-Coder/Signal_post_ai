@@ -1,0 +1,343 @@
+{
+  "orgnr": "992632828",
+  "legal_name": "1-2-3 OPPLÆRING AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Trafikkskole og annen rådgivning og konsulentvirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Holsavegen 623, 6819 FØRDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": 9653634,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": 6978045,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 7040407,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2025)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2008-03-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "85.531",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Undervisning ved godkjente trafikkskoler",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1-2-3 OPPLÆRING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 992632828"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "SUNNFJORD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": 493194,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": 531554,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": 1212362,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2025)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": 1384072,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": 1546906,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": 2292045,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "992632828",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 992632828"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2008-05-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2023": {
+      "key": "revenue",
+      "value": 8338643,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2023)"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 10706786,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2024)"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 9549307,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2025)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 100000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Trafikkskole og annen rådgivning og konsulentvirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 22060705,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 19014584,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 18740943,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992632828",
+      "retrieved_at": "2026-10-12T16:12:50.0858163Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 992632828 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992632828",
+      "retrieved_at": "2026-10-14T14:01:00.8359652Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in SUNNFJORD, NACE 85.531, Employee count not registered. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:59.1319408Z",
+  "last_changed": "2026-10-12T16:12:47.7572748Z",
+  "created_at": "2026-10-12T16:12:47.7572748Z"
+}

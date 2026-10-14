@@ -1,0 +1,302 @@
+{
+  "orgnr": "984661185",
+  "legal_name": "POSTEN BRING AS",
+  "status": "active",
+  "facts": {
+    "business_address": {
+      "key": "business_address",
+      "value": "Biskop Gunnerus' gate 14A, 0185 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984661185",
+      "retrieved_at": "2026-10-12T16:00:08.7558093Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "employee_count": {
+      "key": "employee_count",
+      "value": 9958,
+      "unit": "count",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984661185",
+      "retrieved_at": "2026-10-12T16:00:08.7558093Z",
+      "origin": "registry",
+      "evidence": "Registered employee count in NAV/Enhetsregisteret"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": 4226000000,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": 3948000000,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 4337000000,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2025)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2002-07-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984661185",
+      "retrieved_at": "2026-10-12T16:00:08.7558093Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "53.100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984661185",
+      "retrieved_at": "2026-10-12T16:00:08.7558093Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Landsdekkende posttjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984661185",
+      "retrieved_at": "2026-10-12T16:00:08.7558093Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "POSTEN BRING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984661185",
+      "retrieved_at": "2026-10-12T16:00:08.7558093Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 984661185"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984661185",
+      "retrieved_at": "2026-10-12T16:00:08.7558093Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": 183000000,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": -208000000,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": 530000000,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2025)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": 220000000,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": -17000000,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": 691000000,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984661185",
+      "retrieved_at": "2026-10-12T16:00:08.7558093Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "984661185",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984661185",
+      "retrieved_at": "2026-10-12T16:00:08.7558093Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 984661185"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "Postboks 1500 Sentrum, 0001 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984661185",
+      "retrieved_at": "2026-10-12T16:00:08.7558093Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2002-07-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984661185",
+      "retrieved_at": "2026-10-12T16:00:08.7558093Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2023": {
+      "key": "revenue",
+      "value": 13987000000,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2023)"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 14034000000,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2024)"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 14354000000,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2025)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984661185",
+      "retrieved_at": "2026-10-12T16:00:08.7558093Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 22128000000,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 22302000000,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 22799000000,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984661185",
+      "retrieved_at": "2026-10-12T16:00:09.9939214Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 984661185 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984661185",
+      "retrieved_at": "2026-10-12T16:00:08.7558093Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in OSLO, NACE 53.100, 9958 employees. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-12T16:04:27.2242209Z",
+  "last_changed": "2026-10-12T16:00:08.7552234Z",
+  "created_at": "2026-10-12T16:00:08.7552234Z"
+}

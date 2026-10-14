@@ -1,0 +1,110 @@
+{
+  "orgnr": "991289127",
+  "legal_name": "1959 CONSULTING LIMITED",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Utenlandsk enhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991289127",
+      "retrieved_at": "2026-10-14T14:04:17.961527Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "100 Pall Mall Stron House, SW1Y 5EA London, Storbritannia",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991289127",
+      "retrieved_at": "2026-10-14T14:04:17.961527Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991289127",
+      "retrieved_at": "2026-10-14T14:04:17.961527Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2007-05-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991289127",
+      "retrieved_at": "2026-10-14T14:04:17.961527Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1959 CONSULTING LIMITED",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991289127",
+      "retrieved_at": "2026-10-14T14:04:17.961527Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 991289127"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "UTLA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991289127",
+      "retrieved_at": "2026-10-14T14:04:17.961527Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: UTLA (Utenlandsk enhet)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "991289127",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991289127",
+      "retrieved_at": "2026-10-14T14:04:17.961527Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 991289127"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2007-06-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991289127",
+      "retrieved_at": "2026-10-14T14:04:17.961527Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991289127",
+      "retrieved_at": "2026-10-14T14:04:17.961527Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Utenlandsk foretak.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991289127",
+      "retrieved_at": "2026-10-14T14:04:17.961527Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991289127",
+      "retrieved_at": "2026-10-14T14:04:17.961527Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active entity, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:04:16.2162902Z",
+  "last_changed": "2026-10-14T14:04:16.2162902Z",
+  "created_at": "2026-10-14T14:04:16.2162902Z"
+}

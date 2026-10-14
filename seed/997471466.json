@@ -1,0 +1,366 @@
+{
+  "orgnr": "997471466",
+  "legal_name": "1DAYSERVICE TOTALBYGG AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Bygg og snekker arbeid utvendig og innvendig.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Losbyveien 17, 1475 FINSTADJORDET",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Arturas Kristauskas",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466/roller",
+      "retrieved_at": "2026-10-14T14:04:36.7112009Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 997471466"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": -410868,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": -329952,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": -647159,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2025)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2011-09-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Arturas Kristauskas",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466/roller",
+      "retrieved_at": "2026-10-14T14:04:36.7112009Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 997471466"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "41.000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Oppføring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1DAYSERVICE TOTALBYGG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 997471466"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "LØRENSKOG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": -1074606,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": 80916,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": -317207,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2025)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": -575701,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": 221582,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": -304632,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "997471466",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 997471466"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2011-10-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2023": {
+      "key": "revenue",
+      "value": 1690958,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2023)"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 1117762,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2024)"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 243246,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2025)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 104000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Oppføring av bygg. Bygg og snekkerarbeid, innvendig og utvendig. Kjøp og salg av materialer. Annen forretningsmessig tjenesteyting ikke nevnt annet sted og andre produkter som naturlig faller sammen med dette, herudner å delta i andre selskaper med lignende virksomhet, kjøp og salg av aksjer eller på annen måte gjøre seg interessert i andre foretagender.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 2450180,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 1447621,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 1157802,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997471466",
+      "retrieved_at": "2026-10-14T14:04:34.8360864Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 997471466 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://www.1dayservice.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997471466",
+      "retrieved_at": "2026-10-14T14:04:32.8358836Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in LØRENSKOG, NACE 41.000, Employee count not registered. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:04:31.0920559Z",
+  "last_changed": "2026-10-14T14:04:31.0920559Z",
+  "created_at": "2026-10-14T14:04:31.0920559Z"
+}

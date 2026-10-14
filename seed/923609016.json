@@ -1,0 +1,316 @@
+{
+  "orgnr": "923609016",
+  "legal_name": "EQUINOR ASA",
+  "status": "active",
+  "facts": {
+    "business_address": {
+      "key": "business_address",
+      "value": "Forusbeen 50, 4035 STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved_at": "2026-10-12T15:53:27.0753136Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "51 99 00 00",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved_at": "2026-10-12T15:53:27.0753136Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "employee_count": {
+      "key": "employee_count",
+      "value": 21272,
+      "unit": "count",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved_at": "2026-10-12T15:53:27.0753136Z",
+      "origin": "registry",
+      "evidence": "Registered employee count in NAV/Enhetsregisteret"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": 46173000000,
+      "unit": "USD",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": 41090000000,
+      "unit": "USD",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 39182000000,
+      "unit": "USD",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2025)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "1972-09-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved_at": "2026-10-12T15:53:27.0753136Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "06.100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved_at": "2026-10-12T15:53:27.0753136Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Utvinning av råolje",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved_at": "2026-10-12T15:53:27.0753136Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "EQUINOR ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved_at": "2026-10-12T15:53:27.0753136Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 923609016"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved_at": "2026-10-12T15:53:27.0753136Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": 11681000000,
+      "unit": "USD",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": 8141000000,
+      "unit": "USD",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": 5731000000,
+      "unit": "USD",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2025)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": 10658000000,
+      "unit": "USD",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": 10347000000,
+      "unit": "USD",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": 5563000000,
+      "unit": "USD",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved_at": "2026-10-12T15:53:27.0753136Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ASA (Allmennaksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "923609016",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved_at": "2026-10-12T15:53:27.0753136Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 923609016"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "Postboks 8500, 4035 STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved_at": "2026-10-12T15:53:27.0753136Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "1995-03-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved_at": "2026-10-12T15:53:27.0753136Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2023": {
+      "key": "revenue",
+      "value": 72442000000,
+      "unit": "USD",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2023)"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 72543000000,
+      "unit": "USD",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2024)"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 67956000000,
+      "unit": "USD",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2025)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved_at": "2026-10-12T15:53:27.0753136Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 127220000000,
+      "unit": "USD",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 109150000000,
+      "unit": "USD",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 103432000000,
+      "unit": "USD",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "retrieved_at": "2026-10-12T15:53:28.3315738Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923609016 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved_at": "2026-10-12T15:53:27.0753136Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://www.equinor.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "retrieved_at": "2026-10-12T15:53:27.0753136Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active ASA in STAVANGER, NACE 06.100, 21272 employees. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-12T16:04:27.2242209Z",
+  "last_changed": "2026-10-12T16:00:08.7558093Z",
+  "created_at": "2026-10-12T16:00:08.7558093Z"
+}

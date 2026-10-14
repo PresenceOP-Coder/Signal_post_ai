@@ -1,0 +1,173 @@
+{
+  "orgnr": "988186856",
+  "legal_name": "1. BATNFJORD SPEIDERGRUPPE",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Speideraktiviteter for barn og unge gjennom ulike typer samfunnsengasjement og friluftsliv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "6631 BATNFJORDSØRA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Markus Rånes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856/roller",
+      "retrieved_at": "2026-10-12T16:12:57.9603875Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 988186856"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "71 29 05 63",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "1973-12-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2010",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1. BATNFJORD SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 988186856"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "GJEMNES",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "988186856",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 988186856"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "c/o Anne Astad, Gaupsetvegen 17, 6631 BATNFJORDSØRA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2005-05-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988186856",
+      "retrieved_at": "2026-10-14T14:01:02.7110141Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in GJEMNES, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:01:01.1499851Z",
+  "last_changed": "2026-10-12T16:12:54.2520765Z",
+  "created_at": "2026-10-12T16:12:54.2520765Z"
+}

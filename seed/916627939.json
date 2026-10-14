@@ -1,0 +1,227 @@
+{
+  "orgnr": "916627939",
+  "legal_name": "- P A L M E R A -",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Er et non-profit kunstnerstyrt visningsrom og kunstgalleri i Bergen sentrum. Stiller ut samtidskunst fra lokale og internasjonale kunstnere.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Strandgaten 208, 5004 BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Lady Tatiana Lozano Prieto",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939/roller",
+      "retrieved_at": "2026-10-12T16:11:15.5292589Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 916627939"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2015-11-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Lady Tatiana Lozano Prieto",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939/roller",
+      "retrieved_at": "2026-10-12T16:11:15.5292589Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 916627939"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "- P A L M E R A -",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 916627939"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "916627939",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 916627939"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "c/o Lady Tatiana Lozano Prieto, Hans Hauges gate 37, 5033 BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2016-01-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://palmera-i-bergen.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "retrieved_at": "2026-10-14T14:00:38.993414Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [
+    {
+      "key": "activity_description",
+      "old_value": null,
+      "new_value": "Er et non-profit kunstnerstyrt visningsrom og kunstgalleri i Bergen sentrum. Stiller ut samtidskunst fra lokale og internasjonale kunstnere.",
+      "changed_at": "2026-10-12T16:11:15.5259419Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "reason": "Fact activity_description added"
+    },
+    {
+      "key": "business_register_status",
+      "old_value": null,
+      "new_value": false,
+      "changed_at": "2026-10-12T16:11:15.5259419Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "reason": "Fact business_register_status added"
+    },
+    {
+      "key": "sector_code",
+      "old_value": null,
+      "new_value": "7000",
+      "changed_at": "2026-10-12T16:11:15.5259419Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "reason": "Fact sector_code added"
+    },
+    {
+      "key": "sector_description",
+      "old_value": null,
+      "new_value": "Ideelle organisasjoner",
+      "changed_at": "2026-10-12T16:11:15.5259419Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939",
+      "reason": "Fact sector_description added"
+    },
+    {
+      "key": "general_manager",
+      "old_value": null,
+      "new_value": "Lady Tatiana Lozano Prieto",
+      "changed_at": "2026-10-12T16:11:15.5259419Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939/roller",
+      "reason": "Fact general_manager added"
+    },
+    {
+      "key": "chair",
+      "old_value": null,
+      "new_value": "Lady Tatiana Lozano Prieto",
+      "changed_at": "2026-10-12T16:11:15.5259419Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916627939/roller",
+      "reason": "Fact chair added"
+    }
+  ],
+  "summary": "Active FLI in BERGEN, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "New fact activity_description recorded as Er et non-profit kunstnerstyrt visningsrom og kunstgalleri i Bergen sentrum. Stiller ut samtidskunst fra lokale og internasjonale kunstnere. on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/916627939)",
+    "New fact business_register_status recorded as false on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/916627939)",
+    "New fact sector_code recorded as 7000 on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/916627939)",
+    "New fact sector_description recorded as Ideelle organisasjoner on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/916627939)",
+    "New fact general_manager recorded as Lady Tatiana Lozano Prieto on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/916627939/roller)",
+    "New fact chair recorded as Lady Tatiana Lozano Prieto on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/916627939/roller)"
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:38.9004342Z",
+  "last_changed": "2026-10-12T16:11:15.5259419Z",
+  "created_at": "2026-10-12T16:08:16.9884058Z"
+}

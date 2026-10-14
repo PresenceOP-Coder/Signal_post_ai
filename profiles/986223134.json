@@ -1,0 +1,196 @@
+{
+  "orgnr": "986223134",
+  "legal_name": "1. JELØY SPEIDERGRUPPE",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "1. Jeløy er en lokal speidergruppe som er godkjent av Norges Speiderforbund og driver etter forbundets mål og lover.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "c/o Peik Næsje, Augustenborgalleen 48, 1519 MOSS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "careers_page": {
+      "key": "careers_page",
+      "value": "https://speiding.no/om-oss/ledige-stillinger-og-verv",
+      "source_url": "https://jeloy.speiding.no",
+      "retrieved_at": "2026-10-12T16:13:09.3236043Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Thomas Due Trier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134/roller",
+      "retrieved_at": "2026-10-12T16:13:08.3356817Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 986223134"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "69 27 48 92",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "contact_page": {
+      "key": "contact_page",
+      "value": "https://jeloy.speiding.no/kontakt/",
+      "source_url": "https://jeloy.speiding.no",
+      "retrieved_at": "2026-10-12T16:13:09.3236043Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "description": {
+      "key": "description",
+      "value": "Speiding er å utvikle selvstendighet og ansvarsbevissthet hos barn, unge og voksne. Speiding er friluftsliv året rundt og opplevelser sammen med andre. Speiding er samarbeid...",
+      "source_url": "https://jeloy.speiding.no",
+      "retrieved_at": "2026-10-12T16:13:09.3236043Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "1971-05-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1. JELØY SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 986223134"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "MOSS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "986223134",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 986223134"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2003-12-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "social_links": {
+      "key": "social_links",
+      "value": "http://www.instagram.com/speiding/, https://www.facebook.com/jeloyspeider/, https://www.youtube.com/watch?v=qv86QT9rkk4\u0026#038;t=4s, https://www.facebook.com/jeloyspeider, //www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjeloy.speiding.no%2F, //twitter.com/share?url=https%3A%2F%2Fjeloy.speiding.no%2F\u0026amp;text=Startside - 1. Jeløy speidergruppe:, http://www.instagram.com/speiding, http://www.facebook.com/speiding, http://twitter.com/speiding",
+      "source_url": "https://jeloy.speiding.no",
+      "retrieved_at": "2026-10-12T16:13:09.3236043Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://jeloy.speiding.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986223134",
+      "retrieved_at": "2026-10-14T14:01:06.3358177Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in MOSS, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:01:05.0062939Z",
+  "last_changed": "2026-10-12T16:13:04.8697034Z",
+  "created_at": "2026-10-12T16:13:04.8697034Z"
+}

@@ -1,0 +1,216 @@
+{
+  "orgnr": "883464982",
+  "legal_name": "17 OSLO KAMPIANERNE SPEIDERGRUPPE",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Speidergruppe i Norges Speiderforbund.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982",
+      "retrieved_at": "2026-10-14T14:03:20.5860747Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982",
+      "retrieved_at": "2026-10-14T14:03:20.5860747Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Michael Heeremans",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982/roller",
+      "retrieved_at": "2026-10-14T14:03:24.3365254Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 883464982"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": 1529263,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/883464982",
+      "retrieved_at": "2026-10-14T14:03:22.4610499Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 883464982 (FY2024)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/883464982",
+      "retrieved_at": "2026-10-14T14:03:22.4610499Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 883464982 (FY2024)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "1919-02-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982",
+      "retrieved_at": "2026-10-14T14:03:20.5860747Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982",
+      "retrieved_at": "2026-10-14T14:03:20.5860747Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982",
+      "retrieved_at": "2026-10-14T14:03:20.5860747Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2024",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982",
+      "retrieved_at": "2026-10-14T14:03:20.5860747Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "17 OSLO KAMPIANERNE SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982",
+      "retrieved_at": "2026-10-14T14:03:20.5860747Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 883464982"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982",
+      "retrieved_at": "2026-10-14T14:03:20.5860747Z",
+      "origin": "registry",
+      "evidence": "Municipality of postal address"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": 375247,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/883464982",
+      "retrieved_at": "2026-10-14T14:03:22.4610499Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 883464982 (FY2024)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": 375247,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/883464982",
+      "retrieved_at": "2026-10-14T14:03:22.4610499Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 883464982 (FY2024)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982",
+      "retrieved_at": "2026-10-14T14:03:20.5860747Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "883464982",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982",
+      "retrieved_at": "2026-10-14T14:03:20.5860747Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 883464982"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "c/o Marte Kjersti Schrøder, Kaptein Oppegaards vei 3B, 1164 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982",
+      "retrieved_at": "2026-10-14T14:03:20.5860747Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2001-09-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982",
+      "retrieved_at": "2026-10-14T14:03:20.5860747Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 690235,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/883464982",
+      "retrieved_at": "2026-10-14T14:03:22.4610499Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 883464982 (FY2024)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982",
+      "retrieved_at": "2026-10-14T14:03:20.5860747Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982",
+      "retrieved_at": "2026-10-14T14:03:20.5860747Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982",
+      "retrieved_at": "2026-10-14T14:03:20.5860747Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 1529263,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/883464982",
+      "retrieved_at": "2026-10-14T14:03:22.4610499Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 883464982 (FY2024)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883464982",
+      "retrieved_at": "2026-10-14T14:03:20.5860747Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in OSLO, NACE 94.992, Employee count not registered. Annual accounts for FY2024 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:03:18.9694435Z",
+  "last_changed": "2026-10-14T14:03:18.9694435Z",
+  "created_at": "2026-10-14T14:03:18.9694435Z"
+}

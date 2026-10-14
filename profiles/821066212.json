@@ -1,0 +1,356 @@
+{
+  "orgnr": "821066212",
+  "legal_name": "123 HOUSING AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Formidle konsulenttjenester ved å leie inn konsulenter fra både norske og utenlandske konsulentselskaper. Hovedområdet for bedriftens tjenester vil være å hjelpe norske og utenlandske selskaper med å etablerer seg i Norge og andre land/regioner som selskapet har sitt kontaktnett i.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "c/o Tore Hofstad, Nedre Skøyen vei 12, 0276 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Gaute Kolnes Steinkopf",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212/roller",
+      "retrieved_at": "2026-10-14T14:02:30.4608943Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 821066212"
+    },
+    "equity:2022": {
+      "key": "equity",
+      "value": -55454,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2022)"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": -4678591,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": -7030036,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2024)"
+    },
+    "fiscal_year:2022": {
+      "key": "fiscal_year",
+      "value": "2022",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2022)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2024)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2018-05-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Gaute Kolnes Steinkopf",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212/roller",
+      "retrieved_at": "2026-10-14T14:02:30.4608943Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 821066212"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "68.200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2024",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "123 HOUSING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 821066212"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2022": {
+      "key": "net_result",
+      "value": -9186,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2022)"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": -11172210,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": -3491992,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2024)"
+    },
+    "operating_result:2022": {
+      "key": "operating_result",
+      "value": -9186,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2022)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": -2858372,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": -3984107,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2024)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "821066212",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 821066212"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2018-07-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2023": {
+      "key": "revenue",
+      "value": 2929150,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2023)"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 12204651,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2024)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 2950039.92,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Å formidle bolig og annen virksomhet som hører naturlig inn under dette, samt å eie i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2022": {
+      "key": "total_assets",
+      "value": 4003825,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2022)"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 1665863,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 844139,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821066212",
+      "retrieved_at": "2026-10-14T14:02:28.4607168Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 821066212 (FY2024)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://www.123housing.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212",
+      "retrieved_at": "2026-10-14T14:02:26.4616701Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in OSLO, NACE 68.200, Employee count not registered. Annual accounts for FY2024 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:02:24.7244471Z",
+  "last_changed": "2026-10-14T14:02:24.7244471Z",
+  "created_at": "2026-10-14T14:02:24.7244471Z"
+}

@@ -1,0 +1,157 @@
+{
+  "orgnr": "997825934",
+  "legal_name": "2-ER TURA",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Rydding og vedlikehold av gamle seterstier på Totenåsen, lodd nr 2. Skilting og restaurering av gamle kulturminner.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934",
+      "retrieved_at": "2026-10-14T14:05:17.9608602Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "c/o Liv Astri Ødegård, Vallevegen 30, 2850 LENA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934",
+      "retrieved_at": "2026-10-14T14:05:17.9608602Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934",
+      "retrieved_at": "2026-10-14T14:05:17.9608602Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Sverre Dysthe",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934/roller",
+      "retrieved_at": "2026-10-14T14:05:21.8360021Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 997825934"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "61 19 65 01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934",
+      "retrieved_at": "2026-10-14T14:05:17.9608602Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2000-02-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934",
+      "retrieved_at": "2026-10-14T14:05:17.9608602Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934",
+      "retrieved_at": "2026-10-14T14:05:17.9608602Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934",
+      "retrieved_at": "2026-10-14T14:05:17.9608602Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "2-ER TURA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934",
+      "retrieved_at": "2026-10-14T14:05:17.9608602Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 997825934"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "ØSTRE TOTEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934",
+      "retrieved_at": "2026-10-14T14:05:17.9608602Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934",
+      "retrieved_at": "2026-10-14T14:05:17.9608602Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "997825934",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934",
+      "retrieved_at": "2026-10-14T14:05:17.9608602Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 997825934"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2012-02-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934",
+      "retrieved_at": "2026-10-14T14:05:17.9608602Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934",
+      "retrieved_at": "2026-10-14T14:05:17.9608602Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934",
+      "retrieved_at": "2026-10-14T14:05:17.9608602Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934",
+      "retrieved_at": "2026-10-14T14:05:17.9608602Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934",
+      "retrieved_at": "2026-10-14T14:05:17.9608602Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in ØSTRE TOTEN, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:05:16.2323542Z",
+  "last_changed": "2026-10-14T14:05:16.2323542Z",
+  "created_at": "2026-10-14T14:05:16.2323542Z"
+}

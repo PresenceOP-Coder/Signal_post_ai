@@ -1,0 +1,133 @@
+{
+  "orgnr": "984851006",
+  "legal_name": "DNB BANK ASA",
+  "status": "active",
+  "facts": {
+    "business_address": {
+      "key": "business_address",
+      "value": "Dronning Eufemias gate 30, 0191 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved_at": "2026-10-12T15:53:29.1664962Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "employee_count": {
+      "key": "employee_count",
+      "value": 7353,
+      "unit": "count",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved_at": "2026-10-12T15:53:29.1664962Z",
+      "origin": "registry",
+      "evidence": "Registered employee count in NAV/Enhetsregisteret"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2002-09-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved_at": "2026-10-12T15:53:29.1664962Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "64.190",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved_at": "2026-10-12T15:53:29.1664962Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Banker og kredittforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved_at": "2026-10-12T15:53:29.1664962Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "DNB BANK ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved_at": "2026-10-12T15:53:29.1664962Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 984851006"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved_at": "2026-10-12T15:53:29.1664962Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved_at": "2026-10-12T15:53:29.1664962Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ASA (Allmennaksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "984851006",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved_at": "2026-10-12T15:53:29.1664962Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 984851006"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "Postboks 1600 Sentrum, 0021 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved_at": "2026-10-12T15:53:29.1664962Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2002-09-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved_at": "2026-10-12T15:53:29.1664962Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved_at": "2026-10-12T15:53:29.1664962Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved_at": "2026-10-12T15:53:29.1664962Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://www.dnb.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984851006",
+      "retrieved_at": "2026-10-12T15:53:29.1664962Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active ASA in OSLO, NACE 64.190, 7353 employees. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-12T16:04:27.2242209Z",
+  "last_changed": "2026-10-12T16:00:08.7552234Z",
+  "created_at": "2026-10-12T16:00:08.7552234Z"
+}

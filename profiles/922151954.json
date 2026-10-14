@@ -1,0 +1,326 @@
+{
+  "orgnr": "922151954",
+  "legal_name": "1912 SAMEIE",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Eierseksjonssameie",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954",
+      "retrieved_at": "2026-10-14T14:04:14.0858921Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Nygårdsgaten 13, 5015 BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954",
+      "retrieved_at": "2026-10-14T14:04:14.0858921Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954",
+      "retrieved_at": "2026-10-14T14:04:14.0858921Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": 1006769,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": 1381935,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 1349284,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2025)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2018-09-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954",
+      "retrieved_at": "2026-10-14T14:04:14.0858921Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "97.001",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954",
+      "retrieved_at": "2026-10-14T14:04:14.0858921Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954",
+      "retrieved_at": "2026-10-14T14:04:14.0858921Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954",
+      "retrieved_at": "2026-10-14T14:04:14.0858921Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1912 SAMEIE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954",
+      "retrieved_at": "2026-10-14T14:04:14.0858921Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 922151954"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954",
+      "retrieved_at": "2026-10-14T14:04:14.0858921Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": -273901,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": 375167,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": -32651,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2025)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": -315892,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": 319717,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": -95468,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ESEK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954",
+      "retrieved_at": "2026-10-14T14:04:14.0858921Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ESEK (Eierseksjonssameie)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "922151954",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954",
+      "retrieved_at": "2026-10-14T14:04:14.0858921Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 922151954"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "Postboks 7280, 5020 BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954",
+      "retrieved_at": "2026-10-14T14:04:14.0858921Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2019-02-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954",
+      "retrieved_at": "2026-10-14T14:04:14.0858921Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2023": {
+      "key": "revenue",
+      "value": 2552038,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2023)"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 3183414,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2024)"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 3330322,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2025)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954",
+      "retrieved_at": "2026-10-14T14:04:14.0858921Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Eierseksjonssameie",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954",
+      "retrieved_at": "2026-10-14T14:04:14.0858921Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 1704751,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 1976591,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 2278896,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922151954",
+      "retrieved_at": "2026-10-14T14:04:16.0860117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922151954 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954",
+      "retrieved_at": "2026-10-14T14:04:14.0858921Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active ESEK in BERGEN, NACE 97.001, Employee count not registered. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:04:12.3340639Z",
+  "last_changed": "2026-10-14T14:04:12.3340639Z",
+  "created_at": "2026-10-14T14:04:12.3340639Z"
+}

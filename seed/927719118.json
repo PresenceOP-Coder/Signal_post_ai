@@ -1,0 +1,343 @@
+{
+  "orgnr": "927719118",
+  "legal_name": "1UP LIVE AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Medieproduksjon og andre produkter/tjenester som naturlig hører sammen med dette. Utleie av teknisk utstyr. Salg, produksjon, utleie, event, markedsføring og management. Dette inkluderer provisjonssalg ifbm. management, konsulenttjenester og salg.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "John Strandruds vei 16, 1360 FORNEBU",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "equity:2022": {
+      "key": "equity",
+      "value": 303147,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2022)"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": 111192,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": 4147,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2024)"
+    },
+    "fiscal_year:2022": {
+      "key": "fiscal_year",
+      "value": "2022",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2022)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2024)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2021-07-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "59.110",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Produksjon av film, video og fjernsynsprogrammer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2024",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1UP LIVE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 927719118"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "BÆRUM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2022": {
+      "key": "net_result",
+      "value": 282631,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2022)"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": -191955,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": -107044,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2024)"
+    },
+    "operating_result:2022": {
+      "key": "operating_result",
+      "value": 360256,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2022)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": -194006,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": -108624,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2024)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "927719118",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 927719118"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2021-09-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2022": {
+      "key": "revenue",
+      "value": 663810,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2022)"
+    },
+    "revenue:2023": {
+      "key": "revenue",
+      "value": 25500,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2023)"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2024)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 30000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Tilbyder av event, konsert, arrangement og andre produkter/tjenester som naturlig hører sammen med dette. Formålet vil også kunne omfatte medieproduksjon og utleie av teknisk utstyr. Aktivitet/bransje: selskapet vil drive med event, konsert, arrangement etc. Herunder kan også forekomme salg, produksjon, utleie, markedsføring og management. Dette inkluderer provisjonssalg ifbm. management, konsulent-tjenester og salg.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2022": {
+      "key": "total_assets",
+      "value": 523432,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2022)"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 148045,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 215363,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927719118",
+      "retrieved_at": "2026-10-14T14:04:52.7111815Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927719118 (FY2024)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
+      "retrieved_at": "2026-10-14T14:04:50.8361137Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in BÆRUM, NACE 59.110, Employee count not registered. Annual accounts for FY2024 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:04:49.2115501Z",
+  "last_changed": "2026-10-14T14:04:49.2115501Z",
+  "created_at": "2026-10-14T14:04:49.2115501Z"
+}

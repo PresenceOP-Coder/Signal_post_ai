@@ -1,0 +1,150 @@
+{
+  "orgnr": "916327900",
+  "legal_name": "17 MAI KOMITEEN RISKA",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Organisere 17. Mai.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916327900",
+      "retrieved_at": "2026-10-14T14:03:19.0861653Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "v/17. mai kommiteen, c/o Riska Ungdomsskole, Nøtteskjellveien 7, 4310 HOMMERSÅK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916327900",
+      "retrieved_at": "2026-10-14T14:03:19.0861653Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916327900",
+      "retrieved_at": "2026-10-14T14:03:19.0861653Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Kristine Østebø Sivertsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916327900/roller",
+      "retrieved_at": "2026-10-14T14:03:22.8360858Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 916327900"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2015-11-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916327900",
+      "retrieved_at": "2026-10-14T14:03:19.0861653Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "79.121",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916327900",
+      "retrieved_at": "2026-10-14T14:03:19.0861653Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter utført av utflukts- og eventarrangører",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916327900",
+      "retrieved_at": "2026-10-14T14:03:19.0861653Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "17 MAI KOMITEEN RISKA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916327900",
+      "retrieved_at": "2026-10-14T14:03:19.0861653Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 916327900"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "SANDNES",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916327900",
+      "retrieved_at": "2026-10-14T14:03:19.0861653Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916327900",
+      "retrieved_at": "2026-10-14T14:03:19.0861653Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "916327900",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916327900",
+      "retrieved_at": "2026-10-14T14:03:19.0861653Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 916327900"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2015-12-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916327900",
+      "retrieved_at": "2026-10-14T14:03:19.0861653Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916327900",
+      "retrieved_at": "2026-10-14T14:03:19.0861653Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916327900",
+      "retrieved_at": "2026-10-14T14:03:19.0861653Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916327900",
+      "retrieved_at": "2026-10-14T14:03:19.0861653Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916327900",
+      "retrieved_at": "2026-10-14T14:03:19.0861653Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in SANDNES, NACE 79.121, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:03:17.4563682Z",
+  "last_changed": "2026-10-14T14:03:17.4563682Z",
+  "created_at": "2026-10-14T14:03:17.4563682Z"
+}

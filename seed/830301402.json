@@ -1,0 +1,172 @@
+{
+  "orgnr": "830301402",
+  "legal_name": "110 AGDER IKS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Agder IKS er mottakssentral av nødmeldinger på nødnummer 110. Selskapets formål er mottak av nødmeldinger, veiledning og hjelp til innringer, alarmering av riktig ressurser for brann- og redningstjenesten, varsling av øvrige nødetater (112+113) og koordinering av brannvesenets innsats opp mot øvrige nødetater og andre relevante organisasjoner og etater.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Vestre Strandgate 55, 4612 KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "37 06 55 50",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "employee_count": {
+      "key": "employee_count",
+      "value": 29,
+      "unit": "count",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Registered employee count in NAV/Enhetsregisteret"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2022-02-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "84.250",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Brannvernaktiviteter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "110 AGDER IKS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 830301402"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "KRISTIANSAND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "IKS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: IKS (Interkommunalt selskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "830301402",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 830301402"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2023-02-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "6500",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Kommuneforvaltningen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Utføre deltakernes plikter knyttet til Brann- og eksplosjonsvernlovens § 16 Nødalarameringssentral, med plikt om tilknytning til en sentral for mottak av meldinger om branner og andre ulykker innenfor en fastsatt region. Kommunene i regionen plikter å knytte seg til nødalarmeringssentralen og å bære sin andel av kostnadene ved etablering og drift av sentralen jfr. Brann- og eksplosjonsvernloven § 16.   Selskapet skal gi samme tjenestenivå hos alle deltakerne. En deltaker skal i tillegg ha anledning til å få levert tjenester utover dette nivået, mot kostnadsdekkende godtgjørelse til selskapet, så lenge tjenestene er rettet mot hovedmålet; brann og redningstjeneste. Slike tjenester krever godkjenning av de øvrige deltakerne.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://www.110agder.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830301402",
+      "retrieved_at": "2026-10-14T14:02:13.2109063Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active IKS in KRISTIANSAND, NACE 84.250, 29 employees. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:02:11.7167935Z",
+  "last_changed": "2026-10-14T14:02:11.7167935Z",
+  "created_at": "2026-10-14T14:02:11.7167935Z"
+}

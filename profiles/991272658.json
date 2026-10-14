@@ -1,0 +1,231 @@
+{
+  "orgnr": "991272658",
+  "legal_name": "10. APRIL ANS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Konsulent -, evaluering og kursvirksomhet. Evaluering av bistandsprosjekter.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Bjerkelundgata 1B, 0553 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "91 75 44 25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": -41032,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991272658",
+      "retrieved_at": "2026-10-14T14:01:33.7111797Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991272658 (FY2023)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991272658",
+      "retrieved_at": "2026-10-14T14:01:33.7111797Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991272658 (FY2023)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2007-05-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "74.990",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2023",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "10. APRIL ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 991272658"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": -41032,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991272658",
+      "retrieved_at": "2026-10-14T14:01:33.7111797Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991272658 (FY2023)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": -39849,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991272658",
+      "retrieved_at": "2026-10-14T14:01:33.7111797Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991272658 (FY2023)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ANS (Ansvarlig selskap med solidarisk ansvar)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "991272658",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 991272658"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "Bjerkelundgata 1, 0553 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2007-06-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2023": {
+      "key": "revenue",
+      "value": 115000,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991272658",
+      "retrieved_at": "2026-10-14T14:01:33.7111797Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991272658 (FY2023)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2300",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Handel med/produksjon av konsulenttjenester og produkter som naturlig hører sammen med dette samt deltakelse i andre virksomheter innenfor samme bransje.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 73968,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991272658",
+      "retrieved_at": "2026-10-14T14:01:33.7111797Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991272658 (FY2023)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
+      "retrieved_at": "2026-10-14T14:01:31.9609455Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active ANS in OSLO, NACE 74.990, Employee count not registered. Annual accounts for FY2023 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:01:30.5769825Z",
+  "last_changed": "2026-10-14T14:01:30.5769825Z",
+  "created_at": "2026-10-14T14:01:30.5769825Z"
+}

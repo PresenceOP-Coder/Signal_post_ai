@@ -1,0 +1,9 @@
+# HTTP Disk Cache
+.cache/
+
+# Local environment
+.env
+
+# Binary outputs
+bin/
+*.exe

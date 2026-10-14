@@ -1,0 +1,360 @@
+{
+  "orgnr": "929032470",
+  "legal_name": "1 OSLO RENHOLDSSERVICE AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Å selge renholdstjenester til private, bedrifter og det offenlige, samt annen virksomhet som naturlig følger med dette, herunder deltagelse i andre selskap.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Lutvannsveien 16, 0676 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "employee_count": {
+      "key": "employee_count",
+      "value": 20,
+      "unit": "count",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Registered employee count in NAV/Enhetsregisteret"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": 543854,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": 685965,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 925968,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2025)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2022-01-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "81.210",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Rengjøring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1 OSLO RENHOLDSSERVICE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 929032470"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": 32120,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": 120086,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": 240003,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2025)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": 57489,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": 145961,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": 302577,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "929032470",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 929032470"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2022-04-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2023": {
+      "key": "revenue",
+      "value": 5982224,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2023)"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 6518871,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2024)"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 6195877,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2025)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 30000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Å selge renholdstjenester til private, bedrifter og det offenlige, samt annen virksomhet som naturlig følger med dette, herunder deltagelse i andre selskap.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 1381660,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 1476352,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 3055387,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929032470",
+      "retrieved_at": "2026-10-12T16:12:42.0856606Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 929032470 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "retrieved_at": "2026-10-14T14:00:58.0860905Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [
+    {
+      "key": "employee_count",
+      "old_value": 25,
+      "new_value": 20,
+      "changed_at": "2026-10-14T14:00:56.4923516Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929032470",
+      "reason": "Value changed from 25 to 20"
+    }
+  ],
+  "summary": "Active AS in OSLO, NACE 81.210, 20 employees. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Field employee_count updated from 25 to 20 on 2026-10-14 (https://data.brreg.no/enhetsregisteret/api/enheter/929032470)"
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:56.4923516Z",
+  "last_changed": "2026-10-14T14:00:56.4923516Z",
+  "created_at": "2026-10-12T16:12:39.7597071Z"
+}

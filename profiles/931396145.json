@@ -1,0 +1,165 @@
+{
+  "orgnr": "931396145",
+  "legal_name": "10TH PLANET BERGEN JIU JITSU - DA",
+  "status": "under_liquidation",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Undervisning i Brasiliansk Jiu Jitsu.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Tidemands gate 11, 5005 BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2023-05-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "85.510",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Undervisning innenfor idrett og rekreasjon",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "10TH PLANET BERGEN JIU JITSU - DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 931396145"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: DA (Ansvarlig selskap med delt ansvar)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "931396145",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 931396145"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "Damsgårdslien 54, 5161 LAKSEVÅG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2023-05-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2300",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "under_liquidation",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Under liquidation according to Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Idrett og rekreasjon: Undervisning i Jiu Jitsu.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://10thpbergen.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "retrieved_at": "2026-10-14T14:02:06.7112166Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Under Liquidation DA in BERGEN, NACE 85.510, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:02:05.4948541Z",
+  "last_changed": "2026-10-14T14:02:05.4948541Z",
+  "created_at": "2026-10-14T14:02:05.4948541Z"
+}

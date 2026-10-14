@@ -1,0 +1,150 @@
+{
+  "orgnr": "917569142",
+  "legal_name": "144 EDUCATION NGO",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Kun frivillig arbeid (ikke salg). Frivillig arbeid - kurs for skoler og barnehager. Frivillig arbeid - kurs for foreldre og hjemmeskole. Frivillig arbeid - kurs for barn og unge. Frivillig arbeid - kurs for rldrehjem og sykehus.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142",
+      "retrieved_at": "2026-10-14T14:03:04.0861491Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Rolf E. Stenersens allé 4, 0858 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142",
+      "retrieved_at": "2026-10-14T14:03:04.0861491Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142",
+      "retrieved_at": "2026-10-14T14:03:04.0861491Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Linn Kristin Angell",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142/roller",
+      "retrieved_at": "2026-10-14T14:03:07.8357487Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 917569142"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2016-08-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142",
+      "retrieved_at": "2026-10-14T14:03:04.0861491Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142",
+      "retrieved_at": "2026-10-14T14:03:04.0861491Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142",
+      "retrieved_at": "2026-10-14T14:03:04.0861491Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "144 EDUCATION NGO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142",
+      "retrieved_at": "2026-10-14T14:03:04.0861491Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 917569142"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142",
+      "retrieved_at": "2026-10-14T14:03:04.0861491Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142",
+      "retrieved_at": "2026-10-14T14:03:04.0861491Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "917569142",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142",
+      "retrieved_at": "2026-10-14T14:03:04.0861491Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 917569142"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2016-08-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142",
+      "retrieved_at": "2026-10-14T14:03:04.0861491Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142",
+      "retrieved_at": "2026-10-14T14:03:04.0861491Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142",
+      "retrieved_at": "2026-10-14T14:03:04.0861491Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142",
+      "retrieved_at": "2026-10-14T14:03:04.0861491Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142",
+      "retrieved_at": "2026-10-14T14:03:04.0861491Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in OSLO, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:03:02.3397598Z",
+  "last_changed": "2026-10-14T14:03:02.3397598Z",
+  "created_at": "2026-10-14T14:03:02.3397598Z"
+}

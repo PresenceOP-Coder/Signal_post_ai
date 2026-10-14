@@ -1,0 +1,134 @@
+{
+  "orgnr": "926688405",
+  "legal_name": "1 TOUCH 5 STARS PISULA",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Rengjøringstjenester, renhold.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926688405",
+      "retrieved_at": "2026-10-14T14:00:59.8358091Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Ingar Nilsens vei 7, 0268 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926688405",
+      "retrieved_at": "2026-10-14T14:00:59.8358091Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926688405",
+      "retrieved_at": "2026-10-14T14:00:59.8358091Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "81.210",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926688405",
+      "retrieved_at": "2026-10-14T14:00:59.8358091Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Rengjøring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926688405",
+      "retrieved_at": "2026-10-14T14:00:59.8358091Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1 TOUCH 5 STARS PISULA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926688405",
+      "retrieved_at": "2026-10-14T14:00:59.8358091Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 926688405"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926688405",
+      "retrieved_at": "2026-10-14T14:00:59.8358091Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ENK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926688405",
+      "retrieved_at": "2026-10-14T14:00:59.8358091Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ENK (Enkeltpersonforetak)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "926688405",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926688405",
+      "retrieved_at": "2026-10-14T14:00:59.8358091Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 926688405"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2021-02-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926688405",
+      "retrieved_at": "2026-10-14T14:00:59.8358091Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "8200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926688405",
+      "retrieved_at": "2026-10-14T14:00:59.8358091Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926688405",
+      "retrieved_at": "2026-10-14T14:00:59.8358091Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926688405",
+      "retrieved_at": "2026-10-14T14:00:59.8358091Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926688405",
+      "retrieved_at": "2026-10-14T14:00:59.8358091Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active ENK in OSLO, NACE 81.210, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:58.1545063Z",
+  "last_changed": "2026-10-12T16:12:45.5114467Z",
+  "created_at": "2026-10-12T16:12:45.5114467Z"
+}

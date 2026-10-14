@@ -1,0 +1,148 @@
+{
+  "orgnr": "987928824",
+  "legal_name": "1001 NATT Kari-Ann Borgerås",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Charterturer til Tyrkia fra Torp. Tannbehandling, synskorrigering, helsereiser, eiendomsformidling.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987928824",
+      "retrieved_at": "2026-10-14T14:01:47.8360169Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Elvevegen 48A, 3712 SKIEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987928824",
+      "retrieved_at": "2026-10-14T14:01:47.8360169Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987928824",
+      "retrieved_at": "2026-10-14T14:01:47.8360169Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "35 53 71 80",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987928824",
+      "retrieved_at": "2026-10-14T14:01:47.8360169Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "79.122",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987928824",
+      "retrieved_at": "2026-10-14T14:01:47.8360169Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Reisearrangørvirksomhet ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987928824",
+      "retrieved_at": "2026-10-14T14:01:47.8360169Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1001 NATT Kari-Ann Borgerås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987928824",
+      "retrieved_at": "2026-10-14T14:01:47.8360169Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 987928824"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "SKIEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987928824",
+      "retrieved_at": "2026-10-14T14:01:47.8360169Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ENK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987928824",
+      "retrieved_at": "2026-10-14T14:01:47.8360169Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ENK (Enkeltpersonforetak)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "987928824",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987928824",
+      "retrieved_at": "2026-10-14T14:01:47.8360169Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 987928824"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2005-03-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987928824",
+      "retrieved_at": "2026-10-14T14:01:47.8360169Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "8200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987928824",
+      "retrieved_at": "2026-10-14T14:01:47.8360169Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987928824",
+      "retrieved_at": "2026-10-14T14:01:47.8360169Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987928824",
+      "retrieved_at": "2026-10-14T14:01:47.8360169Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987928824",
+      "retrieved_at": "2026-10-14T14:01:47.8360169Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://www.laletour.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987928824",
+      "retrieved_at": "2026-10-14T14:01:47.8360169Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active ENK in SKIEN, NACE 79.122, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:01:46.358355Z",
+  "last_changed": "2026-10-14T14:01:46.358355Z",
+  "created_at": "2026-10-14T14:01:46.358355Z"
+}

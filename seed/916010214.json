@@ -1,0 +1,150 @@
+{
+  "orgnr": "916010214",
+  "legal_name": "0.500 NULL.FEMHUNDRE",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Eie og drifte et dragrace-team, herunder både å eie, låne og leie kjøretøy, motorer, verktøy og øvrig utstyr for å drifte teamet, samt transportere til og fra motorsportstevner og festivaler i Norge og Europa forøvrig. Foreningens nedslagsfelt er Oslo og Akershus.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916010214",
+      "retrieved_at": "2026-10-14T14:00:48.4607783Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "c/o Ivar Espeland, Skogryggveien 19B, 0781 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916010214",
+      "retrieved_at": "2026-10-14T14:00:48.4607783Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916010214",
+      "retrieved_at": "2026-10-14T14:00:48.4607783Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Ivar Espeland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916010214/roller",
+      "retrieved_at": "2026-10-12T16:12:14.7106191Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 916010214"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2015-09-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916010214",
+      "retrieved_at": "2026-10-14T14:00:48.4607783Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "93.190",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916010214",
+      "retrieved_at": "2026-10-14T14:00:48.4607783Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Sportsaktiviteter ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916010214",
+      "retrieved_at": "2026-10-14T14:00:48.4607783Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "0.500 NULL.FEMHUNDRE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916010214",
+      "retrieved_at": "2026-10-14T14:00:48.4607783Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 916010214"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916010214",
+      "retrieved_at": "2026-10-14T14:00:48.4607783Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916010214",
+      "retrieved_at": "2026-10-14T14:00:48.4607783Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "916010214",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916010214",
+      "retrieved_at": "2026-10-14T14:00:48.4607783Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 916010214"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2015-10-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916010214",
+      "retrieved_at": "2026-10-14T14:00:48.4607783Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916010214",
+      "retrieved_at": "2026-10-14T14:00:48.4607783Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916010214",
+      "retrieved_at": "2026-10-14T14:00:48.4607783Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916010214",
+      "retrieved_at": "2026-10-14T14:00:48.4607783Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916010214",
+      "retrieved_at": "2026-10-14T14:00:48.4607783Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in OSLO, NACE 93.190, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:46.7694856Z",
+  "last_changed": "2026-10-12T16:12:11.625304Z",
+  "created_at": "2026-10-12T16:12:11.625304Z"
+}

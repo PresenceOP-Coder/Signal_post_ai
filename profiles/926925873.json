@@ -1,0 +1,351 @@
+{
+  "orgnr": "926925873",
+  "legal_name": "1910-BYGGET AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Kjøp og slag av fast eiendom, eiendomsutvikling, leie og utleie av fast eiendom samt annet byggearbeid.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "St. Marie gate 112, 1725 SARPSBORG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": -87967,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": -220357,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": -8245675,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2025)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2021-01-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "68.110",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Kjøp og salg av egen fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1910-BYGGET AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 926925873"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "SARPSBORG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": -93495,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": -132389,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": -8025318,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2025)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": -110534,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": -141165,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": -8036869,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "926925873",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 926925873"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "Postboks 335, 1702 SARPSBORG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2021-04-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2023": {
+      "key": "revenue",
+      "value": 19104000,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2023)"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2024)"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 174480,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2025)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 30000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Kjøp og slag av fast eiendom, eiendomsutvikling, leie og utleie av fast eiendom og annet byggearbeid, salg av varer og tjenester, herunder å delta i andre selskaper med lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretagender.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 26156862,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 26951457,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 14388847,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926925873",
+      "retrieved_at": "2026-10-14T14:04:15.5857227Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 926925873 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926925873",
+      "retrieved_at": "2026-10-14T14:04:13.5860822Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in SARPSBORG, NACE 68.110, Employee count not registered. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:04:11.8637856Z",
+  "last_changed": "2026-10-14T14:04:11.8637856Z",
+  "created_at": "2026-10-14T14:04:11.8637856Z"
+}

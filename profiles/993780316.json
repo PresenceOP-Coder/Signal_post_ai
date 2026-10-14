@@ -1,0 +1,189 @@
+{
+  "orgnr": "993780316",
+  "legal_name": "1. GULLAUG SPEIDERGRUPPE",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "1. Gullaug speidergruppes formål er å utvikle mennesker til selvstendighet og til å ta aktivt ansvar i samfunnet i samsvar med idealene fra speiderløftet og speiderloven.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316",
+      "retrieved_at": "2026-10-14T14:01:04.9611745Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Flåtansvingen 23, 3413 LIER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316",
+      "retrieved_at": "2026-10-14T14:01:04.9611745Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316",
+      "retrieved_at": "2026-10-14T14:01:04.9611745Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "careers_page": {
+      "key": "careers_page",
+      "value": "https://speiding.no/om-oss/ledige-stillinger-og-verv",
+      "source_url": "https://gullaug.speiding.no/",
+      "retrieved_at": "2026-10-12T16:13:04.1178497Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Fredrik Strandos Gravdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316/roller",
+      "retrieved_at": "2026-10-12T16:13:03.8356048Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 993780316"
+    },
+    "contact_page": {
+      "key": "contact_page",
+      "value": "https://gullaug.speiding.no/kontakt/",
+      "source_url": "https://gullaug.speiding.no/",
+      "retrieved_at": "2026-10-12T16:13:04.1178497Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "description": {
+      "key": "description",
+      "value": "1. Gullaug speidergruppe er en aktiv og engasjert speidergruppe lokalisert i Lier kommune med speidere fra Høvik og Gullaug skolekrets. Gruppen har et sterkt fokus på friluftsliv, fellesskap og personlig utvikling gjennom utfordrende og lærerike opplevelser i naturen. Med jevnlige turer, leirer og samlinger i nærområdet og på nasjonalt nivå, gir 1. Gullaug speidergruppe medlemmene muligheten til å lære ferdigheter som samarbeid, ansvar og lederskap, samtidig som de får en dypere forståelse for naturen og speiderverdiene.",
+      "source_url": "https://gullaug.speiding.no/",
+      "retrieved_at": "2026-10-12T16:13:04.1178497Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "1931-11-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316",
+      "retrieved_at": "2026-10-14T14:01:04.9611745Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316",
+      "retrieved_at": "2026-10-14T14:01:04.9611745Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316",
+      "retrieved_at": "2026-10-14T14:01:04.9611745Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1. GULLAUG SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316",
+      "retrieved_at": "2026-10-14T14:01:04.9611745Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 993780316"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "LIER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316",
+      "retrieved_at": "2026-10-14T14:01:04.9611745Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316",
+      "retrieved_at": "2026-10-14T14:01:04.9611745Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "993780316",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316",
+      "retrieved_at": "2026-10-14T14:01:04.9611745Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 993780316"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2009-02-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316",
+      "retrieved_at": "2026-10-14T14:01:04.9611745Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316",
+      "retrieved_at": "2026-10-14T14:01:04.9611745Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316",
+      "retrieved_at": "2026-10-14T14:01:04.9611745Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "social_links": {
+      "key": "social_links",
+      "value": "http://www.instagram.com/speiding/, https://www.facebook.com/groups/130557173661377, https://twitter.com/speiding, //www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgullaug.speiding.no%2F, //twitter.com/share?url=https%3A%2F%2Fgullaug.speiding.no%2F\u0026amp;text=Startside - 1.Gullaug speidergruppe:, http://www.instagram.com/speiding, http://www.facebook.com/speiding, http://twitter.com/speiding, https://www.facebook.com/linnesgard",
+      "source_url": "https://gullaug.speiding.no/",
+      "retrieved_at": "2026-10-12T16:13:04.1178497Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316",
+      "retrieved_at": "2026-10-14T14:01:04.9611745Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316",
+      "retrieved_at": "2026-10-14T14:01:04.9611745Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://gullaug.speiding.no/",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316",
+      "retrieved_at": "2026-10-14T14:01:04.9611745Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in LIER, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:01:03.3925857Z",
+  "last_changed": "2026-10-12T16:13:00.6314531Z",
+  "created_at": "2026-10-12T16:13:00.6314531Z"
+}

@@ -1,0 +1,259 @@
+{
+  "orgnr": "919531525",
+  "legal_name": "191 SERVICE HÅKON KVAMME",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Konsulenttjenester og salg av varer innen data.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919531525",
+      "retrieved_at": "2026-10-14T14:04:13.4607353Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Parkveien 53, 1405 LANGHUS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919531525",
+      "retrieved_at": "2026-10-14T14:04:13.4607353Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919531525",
+      "retrieved_at": "2026-10-14T14:04:13.4607353Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "equity:2018": {
+      "key": "equity",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2018",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919531525",
+      "retrieved_at": "2026-10-14T14:04:15.4612617Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919531525 (FY2018)"
+    },
+    "equity:2019": {
+      "key": "equity",
+      "value": -25683,
+      "unit": "NOK",
+      "period": "2019",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919531525",
+      "retrieved_at": "2026-10-14T14:04:15.4612617Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919531525 (FY2019)"
+    },
+    "fiscal_year:2018": {
+      "key": "fiscal_year",
+      "value": "2018",
+      "period": "2018",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919531525",
+      "retrieved_at": "2026-10-14T14:04:15.4612617Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919531525 (FY2018)"
+    },
+    "fiscal_year:2019": {
+      "key": "fiscal_year",
+      "value": "2019",
+      "period": "2019",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919531525",
+      "retrieved_at": "2026-10-14T14:04:15.4612617Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919531525 (FY2019)"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "62.200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919531525",
+      "retrieved_at": "2026-10-14T14:04:13.4607353Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919531525",
+      "retrieved_at": "2026-10-14T14:04:13.4607353Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2019",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919531525",
+      "retrieved_at": "2026-10-14T14:04:13.4607353Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "191 SERVICE HÅKON KVAMME",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919531525",
+      "retrieved_at": "2026-10-14T14:04:13.4607353Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 919531525"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "NORDRE FOLLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919531525",
+      "retrieved_at": "2026-10-14T14:04:13.4607353Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2018": {
+      "key": "net_result",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2018",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919531525",
+      "retrieved_at": "2026-10-14T14:04:15.4612617Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919531525 (FY2018)"
+    },
+    "net_result:2019": {
+      "key": "net_result",
+      "value": -25683,
+      "unit": "NOK",
+      "period": "2019",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919531525",
+      "retrieved_at": "2026-10-14T14:04:15.4612617Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919531525 (FY2019)"
+    },
+    "operating_result:2018": {
+      "key": "operating_result",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2018",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919531525",
+      "retrieved_at": "2026-10-14T14:04:15.4612617Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919531525 (FY2018)"
+    },
+    "operating_result:2019": {
+      "key": "operating_result",
+      "value": -25683,
+      "unit": "NOK",
+      "period": "2019",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919531525",
+      "retrieved_at": "2026-10-14T14:04:15.4612617Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919531525 (FY2019)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ENK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919531525",
+      "retrieved_at": "2026-10-14T14:04:13.4607353Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ENK (Enkeltpersonforetak)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "919531525",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919531525",
+      "retrieved_at": "2026-10-14T14:04:13.4607353Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 919531525"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2017-09-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919531525",
+      "retrieved_at": "2026-10-14T14:04:13.4607353Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2018": {
+      "key": "revenue",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2018",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919531525",
+      "retrieved_at": "2026-10-14T14:04:15.4612617Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919531525 (FY2018)"
+    },
+    "revenue:2019": {
+      "key": "revenue",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2019",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919531525",
+      "retrieved_at": "2026-10-14T14:04:15.4612617Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919531525 (FY2019)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "8200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919531525",
+      "retrieved_at": "2026-10-14T14:04:13.4607353Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919531525",
+      "retrieved_at": "2026-10-14T14:04:13.4607353Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919531525",
+      "retrieved_at": "2026-10-14T14:04:13.4607353Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "total_assets:2018": {
+      "key": "total_assets",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2018",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919531525",
+      "retrieved_at": "2026-10-14T14:04:15.4612617Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919531525 (FY2018)"
+    },
+    "total_assets:2019": {
+      "key": "total_assets",
+      "value": 5858,
+      "unit": "NOK",
+      "period": "2019",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919531525",
+      "retrieved_at": "2026-10-14T14:04:15.4612617Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 919531525 (FY2019)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919531525",
+      "retrieved_at": "2026-10-14T14:04:13.4607353Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active ENK in NORDRE FOLLO, NACE 62.200, Employee count not registered. Annual accounts for FY2019 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:04:11.7404757Z",
+  "last_changed": "2026-10-14T14:04:11.7404757Z",
+  "created_at": "2026-10-14T14:04:11.7404757Z"
+}

@@ -1,0 +1,167 @@
+{
+  "orgnr": "937079370",
+  "legal_name": "10XTROMSØ AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Guide og reiseleder.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Innelvvegen 112, 9107 KVALØYA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Terje Westby",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370/roller",
+      "retrieved_at": "2026-10-14T14:02:12.7111273Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 937079370"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2026-01-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "79.902",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Guide- og reiseledervirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "10XTROMSØ AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 937079370"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "TROMSØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "937079370",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 937079370"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2026-02-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 30000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Å yte turistopplevelser og annet som står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370",
+      "retrieved_at": "2026-10-14T14:02:09.0858992Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in TROMSØ, NACE 79.902, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:02:07.7454389Z",
+  "last_changed": "2026-10-14T14:02:07.7454389Z",
+  "created_at": "2026-10-14T14:02:07.7454389Z"
+}

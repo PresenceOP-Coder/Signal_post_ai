@@ -1,0 +1,165 @@
+{
+  "orgnr": "913649753",
+  "legal_name": "1. EIKSMARKA SPEIDERGRUPPE",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "1. Eiksmarka speidergruppes formål er å utvikle mennesker til selvstendighet og til å ta aktivt ansvar i samfunnet i samsvar med idealene fra speiderløftet og speiderloven.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Grinidammen 6, 1359 EIKSMARKA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Martin Lentz",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753/roller",
+      "retrieved_at": "2026-10-12T16:13:00.2107658Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 913649753"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "1956-03-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1. EIKSMARKA SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 913649753"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "BÆRUM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "913649753",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 913649753"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "c/o Martin lentz, Ruglandveien 112E, 1359 EIKSMARKA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2014-05-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://www.1eiksmarka.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
+      "retrieved_at": "2026-10-14T14:01:03.7111505Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in BÆRUM, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:01:02.1390943Z",
+  "last_changed": "2026-10-12T16:12:56.2178927Z",
+  "created_at": "2026-10-12T16:12:56.2178927Z"
+}

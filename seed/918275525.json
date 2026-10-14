@@ -1,0 +1,165 @@
+{
+  "orgnr": "918275525",
+  "legal_name": "14.HAUGESUND KFUK/KFUM SPEIDERGRUPPE",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Speiderarbeid.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Austrheimvegen 60, 5516 HAUGESUND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Hans Erling Bjelland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525/roller",
+      "retrieved_at": "2026-10-14T14:03:04.2110249Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 918275525"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "1957-10-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "14.HAUGESUND KFUK/KFUM SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 918275525"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "HAUGESUND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "918275525",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 918275525"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "c/o Hans Erling Bjelland, Spannavegen 10, 5521 HAUGESUND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2016-12-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://www.14haugesund.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525",
+      "retrieved_at": "2026-10-14T14:03:00.3361718Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in HAUGESUND, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:02:58.7055076Z",
+  "last_changed": "2026-10-14T14:02:58.7055076Z",
+  "created_at": "2026-10-14T14:02:58.7055076Z"
+}

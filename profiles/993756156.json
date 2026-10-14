@@ -1,0 +1,157 @@
+{
+  "orgnr": "993756156",
+  "legal_name": "10.TRONDHEIM SPEIDERGRUPPE",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "10.Trondheim formål er å utvikle mennesker til selvstendighet og til å ta et aktivt ansvar i samfunnet i samsvar med idealer fra speiderløftet og speiderloven.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "retrieved_at": "2026-10-14T14:01:32.5858179Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Frydenbergvegen 23, 7050 TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "retrieved_at": "2026-10-14T14:01:32.5858179Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "retrieved_at": "2026-10-14T14:01:32.5858179Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "1928-06-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "retrieved_at": "2026-10-14T14:01:32.5858179Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Anna Maren Fjermestad Fyhn",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156/roller",
+      "retrieved_at": "2026-10-14T14:01:36.0860636Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 993756156"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "retrieved_at": "2026-10-14T14:01:32.5858179Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "retrieved_at": "2026-10-14T14:01:32.5858179Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "10.TRONDHEIM SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "retrieved_at": "2026-10-14T14:01:32.5858179Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 993756156"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "retrieved_at": "2026-10-14T14:01:32.5858179Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "retrieved_at": "2026-10-14T14:01:32.5858179Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "993756156",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "retrieved_at": "2026-10-14T14:01:32.5858179Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 993756156"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2009-02-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "retrieved_at": "2026-10-14T14:01:32.5858179Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "retrieved_at": "2026-10-14T14:01:32.5858179Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "retrieved_at": "2026-10-14T14:01:32.5858179Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "retrieved_at": "2026-10-14T14:01:32.5858179Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "retrieved_at": "2026-10-14T14:01:32.5858179Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://10.trondheim.speidergruppe.org/",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "retrieved_at": "2026-10-14T14:01:32.5858179Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in TRONDHEIM, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:01:31.0810139Z",
+  "last_changed": "2026-10-14T14:01:31.0810139Z",
+  "created_at": "2026-10-14T14:01:31.0810139Z"
+}

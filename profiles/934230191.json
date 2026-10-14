@@ -1,0 +1,300 @@
+{
+  "orgnr": "934230191",
+  "legal_name": "\u0026STRATEGE AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Strategiutvikling og foredrag/forelesninger for offentlig og privat virksomhet. Rådgivning. Forelesning.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Klostergaten 1, 5005 BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Tor Øyvind Bårdsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191/roller",
+      "retrieved_at": "2026-10-12T16:12:06.9604086Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 934230191"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": 240712,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934230191",
+      "retrieved_at": "2026-10-12T16:12:05.4604242Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 934230191 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 573347,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934230191",
+      "retrieved_at": "2026-10-12T16:12:05.4604242Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 934230191 (FY2025)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934230191",
+      "retrieved_at": "2026-10-12T16:12:05.4604242Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 934230191 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934230191",
+      "retrieved_at": "2026-10-12T16:12:05.4604242Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 934230191 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2024-09-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Anne Dagrun Husabø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191/roller",
+      "retrieved_at": "2026-10-12T16:12:06.9604086Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 934230191"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "70.200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "\u0026STRATEGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 934230191"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": 216496,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934230191",
+      "retrieved_at": "2026-10-12T16:12:05.4604242Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 934230191 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": 332635,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934230191",
+      "retrieved_at": "2026-10-12T16:12:05.4604242Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 934230191 (FY2025)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": 275927,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934230191",
+      "retrieved_at": "2026-10-12T16:12:05.4604242Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 934230191 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": 426379,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934230191",
+      "retrieved_at": "2026-10-12T16:12:05.4604242Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 934230191 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "934230191",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 934230191"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2024-10-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 276326,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934230191",
+      "retrieved_at": "2026-10-12T16:12:05.4604242Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 934230191 (FY2024)"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 598781,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934230191",
+      "retrieved_at": "2026-10-12T16:12:05.4604242Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 934230191 (FY2025)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 30000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Undervisning og rådgivning.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 369224,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934230191",
+      "retrieved_at": "2026-10-12T16:12:05.4604242Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 934230191 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 829178,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934230191",
+      "retrieved_at": "2026-10-12T16:12:05.4604242Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 934230191 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191",
+      "retrieved_at": "2026-10-14T14:00:45.8359438Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in BERGEN, NACE 70.200, Employee count not registered. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:44.2909282Z",
+  "last_changed": "2026-10-12T16:12:03.3695833Z",
+  "created_at": "2026-10-12T16:12:03.3695833Z"
+}

@@ -1,0 +1,150 @@
+{
+  "orgnr": "931951157",
+  "legal_name": "2017-LAGET",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Legge tilrette for barn \u0026 unge i nær området slik at de kan trene ishockey på likt grunnlag uansett religion, legging. Samt sørge for barn i familier med dårlig økonomi skal også kunne delta.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931951157",
+      "retrieved_at": "2026-10-14T14:05:43.8360176Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "c/o Jonas Holm, Henrik Ibsens vei 35, 1465 STRØMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931951157",
+      "retrieved_at": "2026-10-14T14:05:43.8360176Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931951157",
+      "retrieved_at": "2026-10-14T14:05:43.8360176Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Jonas Holm",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931951157/roller",
+      "retrieved_at": "2026-10-14T14:05:47.8358696Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 931951157"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2023-04-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931951157",
+      "retrieved_at": "2026-10-14T14:05:43.8360176Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "93.120",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931951157",
+      "retrieved_at": "2026-10-14T14:05:43.8360176Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i idrettslag og -klubber",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931951157",
+      "retrieved_at": "2026-10-14T14:05:43.8360176Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "2017-LAGET",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931951157",
+      "retrieved_at": "2026-10-14T14:05:43.8360176Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 931951157"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "LILLESTRØM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931951157",
+      "retrieved_at": "2026-10-14T14:05:43.8360176Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931951157",
+      "retrieved_at": "2026-10-14T14:05:43.8360176Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "931951157",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931951157",
+      "retrieved_at": "2026-10-14T14:05:43.8360176Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 931951157"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2023-08-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931951157",
+      "retrieved_at": "2026-10-14T14:05:43.8360176Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931951157",
+      "retrieved_at": "2026-10-14T14:05:43.8360176Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931951157",
+      "retrieved_at": "2026-10-14T14:05:43.8360176Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931951157",
+      "retrieved_at": "2026-10-14T14:05:43.8360176Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931951157",
+      "retrieved_at": "2026-10-14T14:05:43.8360176Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in LILLESTRØM, NACE 93.120, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:05:42.112817Z",
+  "last_changed": "2026-10-14T14:05:42.112817Z",
+  "created_at": "2026-10-14T14:05:42.112817Z"
+}

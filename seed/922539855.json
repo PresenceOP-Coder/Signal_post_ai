@@ -1,0 +1,124 @@
+{
+  "orgnr": "922539855",
+  "legal_name": "11:FS FOUNDRY LIMITED",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Utenlandsk enhet/foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922539855",
+      "retrieved_at": "2026-10-14T14:02:12.586184Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "We Work c/o 11 FS, 10 Devonshire Square, LONDON EC2M 4YP, Storbritannia",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922539855",
+      "retrieved_at": "2026-10-14T14:02:12.586184Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922539855",
+      "retrieved_at": "2026-10-14T14:02:12.586184Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "+442033221743",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922539855",
+      "retrieved_at": "2026-10-14T14:02:12.586184Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2018-06-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922539855",
+      "retrieved_at": "2026-10-14T14:02:12.586184Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "11:FS FOUNDRY LIMITED",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922539855",
+      "retrieved_at": "2026-10-14T14:02:12.586184Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 922539855"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "UTLA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922539855",
+      "retrieved_at": "2026-10-14T14:02:12.586184Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: UTLA (Utenlandsk enhet)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "922539855",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922539855",
+      "retrieved_at": "2026-10-14T14:02:12.586184Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 922539855"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2019-03-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922539855",
+      "retrieved_at": "2026-10-14T14:02:12.586184Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922539855",
+      "retrieved_at": "2026-10-14T14:02:12.586184Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922539855",
+      "retrieved_at": "2026-10-14T14:02:12.586184Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922539855",
+      "retrieved_at": "2026-10-14T14:02:12.586184Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://11fs.com/digital-financial-services/11fs-foundry",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922539855",
+      "retrieved_at": "2026-10-14T14:02:12.586184Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active entity, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:02:11.116595Z",
+  "last_changed": "2026-10-14T14:02:11.116595Z",
+  "created_at": "2026-10-14T14:02:11.116595Z"
+}

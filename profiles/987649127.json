@@ -1,0 +1,157 @@
+{
+  "orgnr": "987649127",
+  "legal_name": "1. HINNA KFUM SPEIDERGRUPPE",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Tradisjonelt speiderarbeid.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127",
+      "retrieved_at": "2026-10-14T14:01:05.7107918Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127",
+      "retrieved_at": "2026-10-14T14:01:05.7107918Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "51 88 17 11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127",
+      "retrieved_at": "2026-10-14T14:01:05.7107918Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "1980-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127",
+      "retrieved_at": "2026-10-14T14:01:05.7107918Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Beth Bakkane Erfjord",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127/roller",
+      "retrieved_at": "2026-10-12T16:13:07.2104236Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 987649127"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127",
+      "retrieved_at": "2026-10-14T14:01:05.7107918Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127",
+      "retrieved_at": "2026-10-14T14:01:05.7107918Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1. HINNA KFUM SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127",
+      "retrieved_at": "2026-10-14T14:01:05.7107918Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 987649127"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127",
+      "retrieved_at": "2026-10-14T14:01:05.7107918Z",
+      "origin": "registry",
+      "evidence": "Municipality of postal address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127",
+      "retrieved_at": "2026-10-14T14:01:05.7107918Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "987649127",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127",
+      "retrieved_at": "2026-10-14T14:01:05.7107918Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 987649127"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "c/o Per Ingvar Omdal, Einevollveien 5, 4017 STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127",
+      "retrieved_at": "2026-10-14T14:01:05.7107918Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2005-02-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127",
+      "retrieved_at": "2026-10-14T14:01:05.7107918Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127",
+      "retrieved_at": "2026-10-14T14:01:05.7107918Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127",
+      "retrieved_at": "2026-10-14T14:01:05.7107918Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127",
+      "retrieved_at": "2026-10-14T14:01:05.7107918Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987649127",
+      "retrieved_at": "2026-10-14T14:01:05.7107918Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in STAVANGER, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:01:04.1574843Z",
+  "last_changed": "2026-10-12T16:13:04.0023551Z",
+  "created_at": "2026-10-12T16:13:04.0023551Z"
+}

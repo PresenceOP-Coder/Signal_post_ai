@@ -1,0 +1,313 @@
+{
+  "orgnr": "991516891",
+  "legal_name": "1 2 3 LØFT AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Transport av gods.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Selsveien 3, 4150 RENNESØY",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": 51569,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991516891",
+      "retrieved_at": "2026-10-12T16:12:33.3354849Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991516891 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": 1736183,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991516891",
+      "retrieved_at": "2026-10-12T16:12:33.3354849Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991516891 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 1707075,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991516891",
+      "retrieved_at": "2026-10-12T16:12:33.3354849Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991516891 (FY2025)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991516891",
+      "retrieved_at": "2026-10-12T16:12:33.3354849Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991516891 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991516891",
+      "retrieved_at": "2026-10-12T16:12:33.3354849Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991516891 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991516891",
+      "retrieved_at": "2026-10-12T16:12:33.3354849Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991516891 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2007-07-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "49.410",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Godstransport på vei",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1 2 3 LØFT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 991516891"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": -21992,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991516891",
+      "retrieved_at": "2026-10-12T16:12:33.3354849Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991516891 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": 1884614,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991516891",
+      "retrieved_at": "2026-10-12T16:12:33.3354849Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991516891 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": 38872,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991516891",
+      "retrieved_at": "2026-10-12T16:12:33.3354849Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991516891 (FY2025)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": -21992,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991516891",
+      "retrieved_at": "2026-10-12T16:12:33.3354849Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991516891 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": -101826,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991516891",
+      "retrieved_at": "2026-10-12T16:12:33.3354849Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991516891 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": -23438,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991516891",
+      "retrieved_at": "2026-10-12T16:12:33.3354849Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991516891 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "991516891",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 991516891"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2007-08-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 100000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Drive transport samt eie aksjer og andeler i tilsvarende og beslektet virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 100622,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991516891",
+      "retrieved_at": "2026-10-12T16:12:33.3354849Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991516891 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 1805076,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991516891",
+      "retrieved_at": "2026-10-12T16:12:33.3354849Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991516891 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 1729387,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991516891",
+      "retrieved_at": "2026-10-12T16:12:33.3354849Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 991516891 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991516891",
+      "retrieved_at": "2026-10-14T14:00:54.9610668Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in STAVANGER, NACE 49.410, Employee count not registered. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:53.263431Z",
+  "last_changed": "2026-10-12T16:12:30.750811Z",
+  "created_at": "2026-10-12T16:12:30.750811Z"
+}

@@ -1,0 +1,110 @@
+{
+  "orgnr": "935039932",
+  "legal_name": "1916 INVEST AB",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Utenlandsk foretak. Datterforetak i konsern.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935039932",
+      "retrieved_at": "2026-10-14T14:04:14.5857307Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "c/o Haugen-Gruppen AB, BOX 185, 601 03 Norrköping, Sverige",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935039932",
+      "retrieved_at": "2026-10-14T14:04:14.5857307Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935039932",
+      "retrieved_at": "2026-10-14T14:04:14.5857307Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2010-05-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935039932",
+      "retrieved_at": "2026-10-14T14:04:14.5857307Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1916 INVEST AB",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935039932",
+      "retrieved_at": "2026-10-14T14:04:14.5857307Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 935039932"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "UTLA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935039932",
+      "retrieved_at": "2026-10-14T14:04:14.5857307Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: UTLA (Utenlandsk enhet)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "935039932",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935039932",
+      "retrieved_at": "2026-10-14T14:04:14.5857307Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 935039932"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "c/o 1916 Invest AS, Postboks 14, 1541 VESTBY",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935039932",
+      "retrieved_at": "2026-10-14T14:04:14.5857307Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2025-02-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935039932",
+      "retrieved_at": "2026-10-14T14:04:14.5857307Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935039932",
+      "retrieved_at": "2026-10-14T14:04:14.5857307Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935039932",
+      "retrieved_at": "2026-10-14T14:04:14.5857307Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active entity, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:04:12.8392783Z",
+  "last_changed": "2026-10-14T14:04:12.8392783Z",
+  "created_at": "2026-10-14T14:04:12.8392783Z"
+}

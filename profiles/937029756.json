@@ -1,0 +1,187 @@
+{
+  "orgnr": "937029756",
+  "legal_name": "[SOMU] MYKHALEVYCH",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Design av klær.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "retrieved_at": "2026-10-14T14:00:43.2110319Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Nordahl Griegs vei 25, 1462 FJELLHAMAR",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "retrieved_at": "2026-10-14T14:00:43.2110319Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "retrieved_at": "2026-10-14T14:00:43.2110319Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Sofiia Mykhalevych",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756/roller",
+      "retrieved_at": "2026-10-12T16:11:19.7969469Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 937029756"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "74.110",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "retrieved_at": "2026-10-14T14:00:43.2110319Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Industri-, produkt- og motedesignvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "retrieved_at": "2026-10-14T14:00:43.2110319Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "[SOMU] MYKHALEVYCH",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "retrieved_at": "2026-10-14T14:00:43.2110319Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 937029756"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "LØRENSKOG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "retrieved_at": "2026-10-14T14:00:43.2110319Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ENK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "retrieved_at": "2026-10-14T14:00:43.2110319Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ENK (Enkeltpersonforetak)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "937029756",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "retrieved_at": "2026-10-14T14:00:43.2110319Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 937029756"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2026-01-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "retrieved_at": "2026-10-14T14:00:43.2110319Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "8200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "retrieved_at": "2026-10-14T14:00:43.2110319Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "retrieved_at": "2026-10-14T14:00:43.2110319Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "retrieved_at": "2026-10-14T14:00:43.2110319Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "retrieved_at": "2026-10-14T14:00:43.2110319Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [
+    {
+      "key": "activity_description",
+      "old_value": null,
+      "new_value": "Design av klær.",
+      "changed_at": "2026-10-12T16:11:19.2293295Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "reason": "Fact activity_description added"
+    },
+    {
+      "key": "business_register_status",
+      "old_value": null,
+      "new_value": false,
+      "changed_at": "2026-10-12T16:11:19.2293295Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "reason": "Fact business_register_status added"
+    },
+    {
+      "key": "sector_code",
+      "old_value": null,
+      "new_value": "8200",
+      "changed_at": "2026-10-12T16:11:19.2293295Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "reason": "Fact sector_code added"
+    },
+    {
+      "key": "sector_description",
+      "old_value": null,
+      "new_value": "Personlig næringsdrivende",
+      "changed_at": "2026-10-12T16:11:19.2293295Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756",
+      "reason": "Fact sector_description added"
+    },
+    {
+      "key": "general_manager",
+      "old_value": null,
+      "new_value": "Sofiia Mykhalevych",
+      "changed_at": "2026-10-12T16:11:19.2293295Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756/roller",
+      "reason": "Fact general_manager added"
+    }
+  ],
+  "summary": "Active ENK in LØRENSKOG, NACE 74.110, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "New fact activity_description recorded as Design av klær. on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/937029756)",
+    "New fact business_register_status recorded as false on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/937029756)",
+    "New fact sector_code recorded as 8200 on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/937029756)",
+    "New fact sector_description recorded as Personlig næringsdrivende on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/937029756)",
+    "New fact general_manager recorded as Sofiia Mykhalevych on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/937029756/roller)"
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:41.6368113Z",
+  "last_changed": "2026-10-12T16:11:19.2293295Z",
+  "created_at": "2026-10-12T16:08:25.2764323Z"
+}

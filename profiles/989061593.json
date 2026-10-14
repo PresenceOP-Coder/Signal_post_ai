@@ -1,0 +1,440 @@
+{
+  "orgnr": "989061593",
+  "legal_name": "-G- GROUP AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Investeringer, eiendom, konsulentvirksomhet og rådgivning innenfor finansielle områder samt forretningsutvikling.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "c/o Gjørva, Hellerud gårdsvei 5B, 0671 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Geir Inge Gjørva",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593/roller",
+      "retrieved_at": "2026-10-12T16:11:15.5325914Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 989061593"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": 4012027,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": 2499443,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 2763787,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2025)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2005-10-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Geir Inge Gjørva",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593/roller",
+      "retrieved_at": "2026-10-12T16:11:15.5325914Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 989061593"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "62.200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "-G- GROUP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 989061593"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": 524792,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": -1512584,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": 264344,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2025)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": 4014,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": 4972,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": 5742,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "989061593",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 989061593"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2006-01-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2023": {
+      "key": "revenue",
+      "value": 20000,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2023)"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 20000,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2024)"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 20000,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2025)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 108000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Investeringer, eiendom, konsulentvirksomhet og rådgivning innenfor finansielle områder samt forretningsutvikling.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 4180829,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 2648251,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 2949837,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989061593",
+      "retrieved_at": "2026-10-12T16:08:18.2478038Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 989061593 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "retrieved_at": "2026-10-14T14:00:38.9949456Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [
+    {
+      "key": "activity_description",
+      "old_value": null,
+      "new_value": "Investeringer, eiendom, konsulentvirksomhet og rådgivning innenfor finansielle områder samt forretningsutvikling.",
+      "changed_at": "2026-10-12T16:11:15.527039Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "reason": "Fact activity_description added"
+    },
+    {
+      "key": "statutory_purpose",
+      "old_value": null,
+      "new_value": "Investeringer, eiendom, konsulentvirksomhet og rådgivning innenfor finansielle områder samt forretningsutvikling.",
+      "changed_at": "2026-10-12T16:11:15.527039Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "reason": "Fact statutory_purpose added"
+    },
+    {
+      "key": "business_register_status",
+      "old_value": null,
+      "new_value": true,
+      "changed_at": "2026-10-12T16:11:15.527039Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "reason": "Fact business_register_status added"
+    },
+    {
+      "key": "share_capital",
+      "old_value": null,
+      "new_value": 108000,
+      "changed_at": "2026-10-12T16:11:15.527039Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "reason": "Fact share_capital added"
+    },
+    {
+      "key": "sector_code",
+      "old_value": null,
+      "new_value": "2100",
+      "changed_at": "2026-10-12T16:11:15.527039Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "reason": "Fact sector_code added"
+    },
+    {
+      "key": "sector_description",
+      "old_value": null,
+      "new_value": "Private aksjeselskaper mv.",
+      "changed_at": "2026-10-12T16:11:15.527039Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "reason": "Fact sector_description added"
+    },
+    {
+      "key": "latest_accounts_year",
+      "old_value": null,
+      "new_value": "2025",
+      "changed_at": "2026-10-12T16:11:15.527039Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593",
+      "reason": "Fact latest_accounts_year added"
+    },
+    {
+      "key": "general_manager",
+      "old_value": null,
+      "new_value": "Geir Inge Gjørva",
+      "changed_at": "2026-10-12T16:11:15.527039Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593/roller",
+      "reason": "Fact general_manager added"
+    },
+    {
+      "key": "chair",
+      "old_value": null,
+      "new_value": "Geir Inge Gjørva",
+      "changed_at": "2026-10-12T16:11:15.527039Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593/roller",
+      "reason": "Fact chair added"
+    }
+  ],
+  "summary": "Active AS in OSLO, NACE 62.200, Employee count not registered. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "New fact activity_description recorded as Investeringer, eiendom, konsulentvirksomhet og rådgivning innenfor finansielle områder samt forretningsutvikling. on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/989061593)",
+    "New fact statutory_purpose recorded as Investeringer, eiendom, konsulentvirksomhet og rådgivning innenfor finansielle områder samt forretningsutvikling. on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/989061593)",
+    "New fact business_register_status recorded as true on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/989061593)",
+    "New fact share_capital recorded as 108000 on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/989061593)",
+    "New fact sector_code recorded as 2100 on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/989061593)",
+    "New fact sector_description recorded as Private aksjeselskaper mv. on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/989061593)",
+    "New fact latest_accounts_year recorded as 2025 on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/989061593)",
+    "New fact general_manager recorded as Geir Inge Gjørva on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/989061593/roller)",
+    "New fact chair recorded as Geir Inge Gjørva on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/989061593/roller)"
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:38.8993192Z",
+  "last_changed": "2026-10-12T16:11:15.527039Z",
+  "created_at": "2026-10-12T16:08:16.9878423Z"
+}

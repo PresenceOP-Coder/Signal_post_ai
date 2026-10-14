@@ -1,0 +1,374 @@
+{
+  "orgnr": "998214637",
+  "legal_name": "123 MINILAGER AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Utleie av lager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Øvre Måsan 10C, 1385 ASKER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "contact_page": {
+      "key": "contact_page",
+      "value": "https://123minilager.no/kontakt-oss/",
+      "source_url": "https://123minilager.no/",
+      "retrieved_at": "2026-10-14T14:02:34.2095407Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "description": {
+      "key": "description",
+      "value": "Rimelig og trygt selvbetjent minilager for møbler, innbo og sesongvarer. Ingen depositum, enkel tilgang og fleksibel leie!",
+      "source_url": "https://123minilager.no/",
+      "retrieved_at": "2026-10-14T14:02:34.2095407Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": -3192012,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": 528978,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 114957,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2025)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2012-04-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "68.200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "123 MINILAGER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 998214637"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "ASKER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": -2695038,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": -2375826,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": -4035037,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2025)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": 461617,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": 3476772,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": 2936461,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "998214637",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 998214637"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2012-04-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2023": {
+      "key": "revenue",
+      "value": 23060463,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2023)"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 24772910,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2024)"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 26480656,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2025)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 6475000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "social_links": {
+      "key": "social_links",
+      "value": "https://www.facebook.com/123minilager, https://www.instagram.com/123minilager/, https://www.linkedin.com/company/123minilager/, https://www.youtube.com/@123minilager4, https://twitter.com/123minilager",
+      "source_url": "https://123minilager.no/",
+      "retrieved_at": "2026-10-14T14:02:34.2095407Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Utleie av minilager.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 114936160,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 132073436,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 148722862,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214637",
+      "retrieved_at": "2026-10-14T14:02:32.086117Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 998214637 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://www.123minilager.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214637",
+      "retrieved_at": "2026-10-14T14:02:30.3359063Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in ASKER, NACE 68.200, Employee count not registered. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:02:28.5954189Z",
+  "last_changed": "2026-10-14T14:02:28.5954189Z",
+  "created_at": "2026-10-14T14:02:28.5954189Z"
+}

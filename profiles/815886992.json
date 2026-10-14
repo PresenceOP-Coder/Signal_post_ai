@@ -1,0 +1,109 @@
+{
+  "orgnr": "815886992",
+  "legal_name": "100% FOREIGN OWNED SUBSIDIARY \"SIEMENS UKRAINE\"",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Utenlandsk enhet/foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815886992",
+      "retrieved_at": "2026-10-14T14:01:40.086167Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "4-V, Mykola Grinchenco Str., Kyiv 03680, Ukraina",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815886992",
+      "retrieved_at": "2026-10-14T14:01:40.086167Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815886992",
+      "retrieved_at": "2026-10-14T14:01:40.086167Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "+3803922300",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815886992",
+      "retrieved_at": "2026-10-14T14:01:40.086167Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "1997-07-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815886992",
+      "retrieved_at": "2026-10-14T14:01:40.086167Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "100% FOREIGN OWNED SUBSIDIARY \"SIEMENS UKRAINE\"",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815886992",
+      "retrieved_at": "2026-10-14T14:01:40.086167Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 815886992"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "UTLA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815886992",
+      "retrieved_at": "2026-10-14T14:01:40.086167Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: UTLA (Utenlandsk enhet)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "815886992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815886992",
+      "retrieved_at": "2026-10-14T14:01:40.086167Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 815886992"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2015-10-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815886992",
+      "retrieved_at": "2026-10-14T14:01:40.086167Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815886992",
+      "retrieved_at": "2026-10-14T14:01:40.086167Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815886992",
+      "retrieved_at": "2026-10-14T14:01:40.086167Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active entity, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:01:38.5751891Z",
+  "last_changed": "2026-10-14T14:01:38.5751891Z",
+  "created_at": "2026-10-14T14:01:38.5751891Z"
+}

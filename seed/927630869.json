@@ -1,0 +1,313 @@
+{
+  "orgnr": "927630869",
+  "legal_name": "1798 INVEST AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Investering i selskaper som eier og driver med eiendomsprosjekter inkludert andre produkter/tjenester som naturlig hører til dette. Kjøp og salg av aksjer eller på annen måte gjøre seg interessert i andre foretak.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Vestsia 303, 1798 AREMARK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": 80000,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927630869",
+      "retrieved_at": "2026-10-14T14:03:57.7107974Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927630869 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": 80000,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927630869",
+      "retrieved_at": "2026-10-14T14:03:57.7107974Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927630869 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 80000,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927630869",
+      "retrieved_at": "2026-10-14T14:03:57.7107974Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927630869 (FY2025)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927630869",
+      "retrieved_at": "2026-10-14T14:03:57.7107974Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927630869 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927630869",
+      "retrieved_at": "2026-10-14T14:03:57.7107974Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927630869 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927630869",
+      "retrieved_at": "2026-10-14T14:03:57.7107974Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927630869 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2021-07-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "68.200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1798 INVEST AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 927630869"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "AREMARK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": -591589,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927630869",
+      "retrieved_at": "2026-10-14T14:03:57.7107974Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927630869 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": -785109,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927630869",
+      "retrieved_at": "2026-10-14T14:03:57.7107974Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927630869 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": -770889,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927630869",
+      "retrieved_at": "2026-10-14T14:03:57.7107974Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927630869 (FY2025)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": -15250,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927630869",
+      "retrieved_at": "2026-10-14T14:03:57.7107974Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927630869 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": -45845,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927630869",
+      "retrieved_at": "2026-10-14T14:03:57.7107974Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927630869 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": -49722,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927630869",
+      "retrieved_at": "2026-10-14T14:03:57.7107974Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927630869 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "927630869",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 927630869"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2021-09-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 100000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Investering i selskaper som eier og driver med eiendomsprosjekter inkl. andre produkter/tjenester som naturlig hører til dette. Kjøp og salg av aksjer eller på annen måte gjøre seg interessert i andre foretak.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 11599072,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927630869",
+      "retrieved_at": "2026-10-14T14:03:57.7107974Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927630869 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 13906859,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927630869",
+      "retrieved_at": "2026-10-14T14:03:57.7107974Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927630869 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 16442191,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927630869",
+      "retrieved_at": "2026-10-14T14:03:57.7107974Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927630869 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927630869",
+      "retrieved_at": "2026-10-14T14:03:55.7110435Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in AREMARK, NACE 68.200, Employee count not registered. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:03:53.9719546Z",
+  "last_changed": "2026-10-14T14:03:53.9719546Z",
+  "created_at": "2026-10-14T14:03:53.9719546Z"
+}

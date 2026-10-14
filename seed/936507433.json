@@ -1,0 +1,241 @@
+{
+  "orgnr": "936507433",
+  "legal_name": "10M FORMIDLING AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Undervisning og opplæring innen privatøkonomi. Kurs og workshops i privatøkonomi. Nettbaserte kurs innen privatøkonomi. Salg av trykksaker. Produksjon av læremateriell innen privatøkonomi.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Solheimsgaten 60, 5054 BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Tone Waagbø Hille",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433/roller",
+      "retrieved_at": "2026-10-14T14:02:06.8362606Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 936507433"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 25200,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936507433",
+      "retrieved_at": "2026-10-14T14:02:05.3360244Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 936507433 (FY2025)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936507433",
+      "retrieved_at": "2026-10-14T14:02:05.3360244Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 936507433 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2025-11-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Tone Waagbø Hille",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433/roller",
+      "retrieved_at": "2026-10-14T14:02:06.8362606Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 936507433"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "85.597",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Annen undervisning ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "10M FORMIDLING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 936507433"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": -4800,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936507433",
+      "retrieved_at": "2026-10-14T14:02:05.3360244Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 936507433 (FY2025)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": -4800,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936507433",
+      "retrieved_at": "2026-10-14T14:02:05.3360244Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 936507433 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "936507433",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 936507433"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2025-11-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 3750,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936507433",
+      "retrieved_at": "2026-10-14T14:02:05.3360244Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 936507433 (FY2025)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 30000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Drive formidlingsvirksomhet innenfor kultur, kunst og samfunn, samt bidra til økt engasjement og kunnskap gjennom ulike prosjekter, arrangementer og samarbeid.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 25200,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936507433",
+      "retrieved_at": "2026-10-14T14:02:05.3360244Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 936507433 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
+      "retrieved_at": "2026-10-14T14:02:03.5861045Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in BERGEN, NACE 85.597, Employee count not registered. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:02:02.0998891Z",
+  "last_changed": "2026-10-14T14:02:02.0998891Z",
+  "created_at": "2026-10-14T14:02:02.0998891Z"
+}

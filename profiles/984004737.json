@@ -1,0 +1,205 @@
+{
+  "orgnr": "984004737",
+  "legal_name": "1 TANANGER SJØSPEIDERGRUPPE",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Speidergruppe.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "c/o Vetle K Eide, Havblikk 2, 4057 TANANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "careers_page": {
+      "key": "careers_page",
+      "value": "https://speiding.no/om-oss/ledige-stillinger-og-verv",
+      "source_url": "https://tananger.speiding.no/",
+      "retrieved_at": "2026-10-12T16:12:48.3785137Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Silje Kristine Berg Sandgren",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737/roller",
+      "retrieved_at": "2026-10-12T16:12:48.0857696Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 984004737"
+    },
+    "contact_page": {
+      "key": "contact_page",
+      "value": "https://tananger.speiding.no/kontakt/",
+      "source_url": "https://tananger.speiding.no/",
+      "retrieved_at": "2026-10-12T16:12:48.3785137Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "description": {
+      "key": "description",
+      "value": "1. Tananger Sjø er en sjøspeidergruppe med base i Tananger. Vi har over 50 års erfaring fra barne- og ungdomsarbeid i Tananger, som også trekker...",
+      "source_url": "https://tananger.speiding.no/",
+      "retrieved_at": "2026-10-12T16:12:48.3785137Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "1978-04-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Silje Kristine Berg Sandgren",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737/roller",
+      "retrieved_at": "2026-10-12T16:12:48.0857696Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 984004737"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1 TANANGER SJØSPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 984004737"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "SOLA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "984004737",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 984004737"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "Havnevegen 12, 4056 TANANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2002-10-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "social_links": {
+      "key": "social_links",
+      "value": "https://www.instagram.com/1.tananger_sjo/, https://www.facebook.com/1tanangersjo, https://twitter.com/speiding, //www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftananger.speiding.no%2F, //twitter.com/share?url=https%3A%2F%2Ftananger.speiding.no%2F\u0026amp;text=Startside - 1. Tananger sjøspeidergruppe:, http://www.instagram.com/speiding, http://www.facebook.com/speiding, http://twitter.com/speiding",
+      "source_url": "https://tananger.speiding.no/",
+      "retrieved_at": "2026-10-12T16:12:48.3785137Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://www.tanangerspeiderne.no/",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737",
+      "retrieved_at": "2026-10-14T14:00:59.5861907Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in SOLA, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:58.0154473Z",
+  "last_changed": "2026-10-12T16:12:43.8793889Z",
+  "created_at": "2026-10-12T16:12:43.8793889Z"
+}

@@ -1,0 +1,175 @@
+{
+  "orgnr": "837000602",
+  "legal_name": "0000 NORGE AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Produsent og arrangør av kulturelle opplevelser, reiser, samt konsulenttjenester innen underholdning.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Kongens gate 6, 0153 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Shire Marius Standnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602/roller",
+      "retrieved_at": "2026-10-12T16:12:15.085551Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 837000602"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2026-01-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "79.121",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter utført av utflukts- og eventarrangører",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "0000 NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 837000602"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "837000602",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 837000602"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "c/o Etna, Postboks 392 Sentrum, 0103 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2026-01-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 100000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Produsent og arrangør av kulturelle opplevelser, reiser, samt konsulenttjenester innen underholdning.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837000602",
+      "retrieved_at": "2026-10-14T14:00:48.5861382Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in OSLO, NACE 79.121, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:46.8976638Z",
+  "last_changed": "2026-10-12T16:12:11.8907607Z",
+  "created_at": "2026-10-12T16:12:11.8907607Z"
+}

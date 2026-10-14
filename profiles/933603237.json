@@ -1,0 +1,134 @@
+{
+  "orgnr": "933603237",
+  "legal_name": "2 PLAY AS KONKURSBO",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Konkursbo.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933603237",
+      "retrieved_at": "2026-10-14T14:05:08.2111142Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Nydalsveien 20A, 0484 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933603237",
+      "retrieved_at": "2026-10-14T14:05:08.2111142Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933603237",
+      "retrieved_at": "2026-10-14T14:05:08.2111142Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2024-06-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933603237",
+      "retrieved_at": "2026-10-14T14:05:08.2111142Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "47.640",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933603237",
+      "retrieved_at": "2026-10-14T14:05:08.2111142Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Detaljhandel med spill og leker",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933603237",
+      "retrieved_at": "2026-10-14T14:05:08.2111142Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "2 PLAY AS KONKURSBO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933603237",
+      "retrieved_at": "2026-10-14T14:05:08.2111142Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 933603237"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933603237",
+      "retrieved_at": "2026-10-14T14:05:08.2111142Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "KBO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933603237",
+      "retrieved_at": "2026-10-14T14:05:08.2111142Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: KBO (Konkursbo)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "933603237",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933603237",
+      "retrieved_at": "2026-10-14T14:05:08.2111142Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 933603237"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "v/Adv. Anja Ingrid Thorheim, Postboks 1371 Vika, 0114 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933603237",
+      "retrieved_at": "2026-10-14T14:05:08.2111142Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2024-06-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933603237",
+      "retrieved_at": "2026-10-14T14:05:08.2111142Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933603237",
+      "retrieved_at": "2026-10-14T14:05:08.2111142Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933603237",
+      "retrieved_at": "2026-10-14T14:05:08.2111142Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active KBO in OSLO, NACE 47.640, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:05:06.4865026Z",
+  "last_changed": "2026-10-14T14:05:06.4865026Z",
+  "created_at": "2026-10-14T14:05:06.4865026Z"
+}

@@ -1,0 +1,170 @@
+{
+  "orgnr": "936306047",
+  "legal_name": "\"FAVORITE\" BEAUTY STUDIO BY YANA PAVLENKO",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Vippeforlengelse.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "retrieved_at": "2026-10-14T14:00:41.2164745Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Langgata 64, 4306 SANDNES",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "retrieved_at": "2026-10-14T14:00:41.2164745Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "retrieved_at": "2026-10-14T14:00:41.2164745Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "96.220",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "retrieved_at": "2026-10-14T14:00:41.2164745Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Skjønnhetspleie",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "retrieved_at": "2026-10-14T14:00:41.2164745Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "\"FAVORITE\" BEAUTY STUDIO BY YANA PAVLENKO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "retrieved_at": "2026-10-14T14:00:41.2164745Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 936306047"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "SANDNES",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "retrieved_at": "2026-10-14T14:00:41.2164745Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ENK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "retrieved_at": "2026-10-14T14:00:41.2164745Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ENK (Enkeltpersonforetak)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "936306047",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "retrieved_at": "2026-10-14T14:00:41.2164745Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 936306047"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2025-10-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "retrieved_at": "2026-10-14T14:00:41.2164745Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "8200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "retrieved_at": "2026-10-14T14:00:41.2164745Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "retrieved_at": "2026-10-14T14:00:41.2164745Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "retrieved_at": "2026-10-14T14:00:41.2164745Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "retrieved_at": "2026-10-14T14:00:41.2164745Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [
+    {
+      "key": "activity_description",
+      "old_value": null,
+      "new_value": "Vippeforlengelse.",
+      "changed_at": "2026-10-12T16:11:17.9968038Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "reason": "Fact activity_description added"
+    },
+    {
+      "key": "business_register_status",
+      "old_value": null,
+      "new_value": false,
+      "changed_at": "2026-10-12T16:11:17.9968038Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "reason": "Fact business_register_status added"
+    },
+    {
+      "key": "sector_code",
+      "old_value": null,
+      "new_value": "8200",
+      "changed_at": "2026-10-12T16:11:17.9968038Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "reason": "Fact sector_code added"
+    },
+    {
+      "key": "sector_description",
+      "old_value": null,
+      "new_value": "Personlig næringsdrivende",
+      "changed_at": "2026-10-12T16:11:17.9968038Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936306047",
+      "reason": "Fact sector_description added"
+    }
+  ],
+  "summary": "Active ENK in SANDNES, NACE 96.220, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "New fact activity_description recorded as Vippeforlengelse. on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/936306047)",
+    "New fact business_register_status recorded as false on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/936306047)",
+    "New fact sector_code recorded as 8200 on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/936306047)",
+    "New fact sector_description recorded as Personlig næringsdrivende on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/936306047)"
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:40.6615606Z",
+  "last_changed": "2026-10-12T16:11:17.9968038Z",
+  "created_at": "2026-10-12T16:08:20.8094945Z"
+}

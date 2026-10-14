@@ -1,0 +1,381 @@
+{
+  "orgnr": "923177035",
+  "legal_name": "102 ASIA MAT AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Å selge asiatisk mat i butikk og nettbutikk med hjemkjøring.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Ingvald Ludvigsens gate 21A, 3027 DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "97 78 81 02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "employee_count": {
+      "key": "employee_count",
+      "value": 8,
+      "unit": "count",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Registered employee count in NAV/Enhetsregisteret"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": -1264765,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": -1618469,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": -81290,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2025)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2019-07-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "47.110",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "102 ASIA MAT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 923177035"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": -559392,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": -353703,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": 163179,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2025)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": -560041,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": -353989,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": 160563,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "923177035",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 923177035"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "Kjennergrinda 11, 3420 LIERSKOGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2019-08-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2023": {
+      "key": "revenue",
+      "value": 6634518,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2023)"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 8603999,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2024)"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 9326623,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2025)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 130000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "social_links": {
+      "key": "social_links",
+      "value": "https://www.facebook.com/102asiamat, http://instagram.com/102asiamat",
+      "source_url": "https://www.102asiamat.no/",
+      "retrieved_at": "2026-10-14T14:02:00.1203278Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page domain matches registry website with confirmed company name and geographical location)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Å selge asiatisk mat i butikk og nettbutikk med hjemkjøring.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 976092,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 1013338,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 1203596,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923177035",
+      "retrieved_at": "2026-10-14T14:01:57.9611322Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 923177035 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://102asiamat.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923177035",
+      "retrieved_at": "2026-10-14T14:01:56.0859095Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in DRAMMEN, NACE 47.110, 8 employees. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:01:54.6226524Z",
+  "last_changed": "2026-10-14T14:01:54.6226524Z",
+  "created_at": "2026-10-14T14:01:54.6226524Z"
+}

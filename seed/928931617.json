@@ -1,0 +1,313 @@
+{
+  "orgnr": "928931617",
+  "legal_name": "1,5 FORNYBAR AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Fornybar kraftproduksjon.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Storelvdalsveien 2101, 2480 KOPPANG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": 18322284,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928931617",
+      "retrieved_at": "2026-10-12T16:12:54.4604285Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 928931617 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": 19968144,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928931617",
+      "retrieved_at": "2026-10-12T16:12:54.4604285Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 928931617 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 19968144,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928931617",
+      "retrieved_at": "2026-10-12T16:12:54.4604285Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 928931617 (FY2025)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928931617",
+      "retrieved_at": "2026-10-12T16:12:54.4604285Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 928931617 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928931617",
+      "retrieved_at": "2026-10-12T16:12:54.4604285Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 928931617 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928931617",
+      "retrieved_at": "2026-10-12T16:12:54.4604285Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 928931617 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2022-02-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "35.121",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Produksjon av elektrisitet fra vannkraft",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1,5 FORNYBAR AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 928931617"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "STOR-ELVDAL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": -93684,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928931617",
+      "retrieved_at": "2026-10-12T16:12:54.4604285Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 928931617 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": -854140,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928931617",
+      "retrieved_at": "2026-10-12T16:12:54.4604285Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 928931617 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928931617",
+      "retrieved_at": "2026-10-12T16:12:54.4604285Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 928931617 (FY2025)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": -96149,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928931617",
+      "retrieved_at": "2026-10-12T16:12:54.4604285Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 928931617 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": -78866,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928931617",
+      "retrieved_at": "2026-10-12T16:12:54.4604285Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 928931617 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": -90473,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928931617",
+      "retrieved_at": "2026-10-12T16:12:54.4604285Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 928931617 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "928931617",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 928931617"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2022-03-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 2500000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Produksjon av fornybar kraft, investere i andre selskaper og alt hva hermed står i forbindelse.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 46576819,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928931617",
+      "retrieved_at": "2026-10-12T16:12:54.4604285Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 928931617 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 48267056,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928931617",
+      "retrieved_at": "2026-10-12T16:12:54.4604285Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 928931617 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 47958376,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928931617",
+      "retrieved_at": "2026-10-12T16:12:54.4604285Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 928931617 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928931617",
+      "retrieved_at": "2026-10-14T14:01:02.2109995Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in STOR-ELVDAL, NACE 35.121, Employee count not registered. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:01:00.6559783Z",
+  "last_changed": "2026-10-12T16:12:52.0948185Z",
+  "created_at": "2026-10-12T16:12:52.0948185Z"
+}

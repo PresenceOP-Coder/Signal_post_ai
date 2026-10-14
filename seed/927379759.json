@@ -1,0 +1,245 @@
+{
+  "orgnr": "927379759",
+  "legal_name": "... IN NORWAY CATO CHRISTENSEN",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Informasjons- og reisebyrå.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "retrieved_at": "2026-10-14T14:00:38.988874Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "c/o Cato Christensen, Gråtenveien 8B, 3235 SANDEFJORD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "retrieved_at": "2026-10-14T14:00:38.988874Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "retrieved_at": "2026-10-14T14:00:38.988874Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "equity:2022": {
+      "key": "equity",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927379759",
+      "retrieved_at": "2026-10-12T16:08:19.3634141Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927379759 (FY2022)"
+    },
+    "fiscal_year:2022": {
+      "key": "fiscal_year",
+      "value": "2022",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927379759",
+      "retrieved_at": "2026-10-12T16:08:19.3634141Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927379759 (FY2022)"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "79.110",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "retrieved_at": "2026-10-14T14:00:38.988874Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Reisebyråvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "retrieved_at": "2026-10-14T14:00:38.988874Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2022",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "retrieved_at": "2026-10-14T14:00:38.988874Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "... IN NORWAY CATO CHRISTENSEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "retrieved_at": "2026-10-14T14:00:38.988874Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 927379759"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "SANDEFJORD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "retrieved_at": "2026-10-14T14:00:38.988874Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2022": {
+      "key": "net_result",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927379759",
+      "retrieved_at": "2026-10-12T16:08:19.3634141Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927379759 (FY2022)"
+    },
+    "operating_result:2022": {
+      "key": "operating_result",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927379759",
+      "retrieved_at": "2026-10-12T16:08:19.3634141Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927379759 (FY2022)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ENK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "retrieved_at": "2026-10-14T14:00:38.988874Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ENK (Enkeltpersonforetak)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "927379759",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "retrieved_at": "2026-10-14T14:00:38.988874Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 927379759"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2021-07-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "retrieved_at": "2026-10-14T14:00:38.988874Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2022": {
+      "key": "revenue",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927379759",
+      "retrieved_at": "2026-10-12T16:08:19.3634141Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927379759 (FY2022)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "8200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "retrieved_at": "2026-10-14T14:00:38.988874Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "retrieved_at": "2026-10-14T14:00:38.988874Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "retrieved_at": "2026-10-14T14:00:38.988874Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "total_assets:2022": {
+      "key": "total_assets",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2022",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927379759",
+      "retrieved_at": "2026-10-12T16:08:19.3634141Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 927379759 (FY2022)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "retrieved_at": "2026-10-14T14:00:38.988874Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [
+    {
+      "key": "activity_description",
+      "old_value": null,
+      "new_value": "Informasjons- og reisebyrå.",
+      "changed_at": "2026-10-12T16:11:16.8031309Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "reason": "Fact activity_description added"
+    },
+    {
+      "key": "business_register_status",
+      "old_value": null,
+      "new_value": false,
+      "changed_at": "2026-10-12T16:11:16.8031309Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "reason": "Fact business_register_status added"
+    },
+    {
+      "key": "sector_code",
+      "old_value": null,
+      "new_value": "8200",
+      "changed_at": "2026-10-12T16:11:16.8031309Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "reason": "Fact sector_code added"
+    },
+    {
+      "key": "sector_description",
+      "old_value": null,
+      "new_value": "Personlig næringsdrivende",
+      "changed_at": "2026-10-12T16:11:16.8031309Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "reason": "Fact sector_description added"
+    },
+    {
+      "key": "latest_accounts_year",
+      "old_value": null,
+      "new_value": "2022",
+      "changed_at": "2026-10-12T16:11:16.8031309Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927379759",
+      "reason": "Fact latest_accounts_year added"
+    }
+  ],
+  "summary": "Active ENK in SANDEFJORD, NACE 79.110, Employee count not registered. Annual accounts for FY2022 on file.",
+  "changes_summary": [
+    "New fact activity_description recorded as Informasjons- og reisebyrå. on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/927379759)",
+    "New fact business_register_status recorded as false on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/927379759)",
+    "New fact sector_code recorded as 8200 on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/927379759)",
+    "New fact sector_description recorded as Personlig næringsdrivende on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/927379759)",
+    "New fact latest_accounts_year recorded as 2022 on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/927379759)"
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:38.9015578Z",
+  "last_changed": "2026-10-12T16:11:16.8031309Z",
+  "created_at": "2026-10-12T16:08:18.5380286Z"
+}

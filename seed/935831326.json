@@ -1,0 +1,241 @@
+{
+  "orgnr": "935831326",
+  "legal_name": "+ BYGG PROSJEKT AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Tømrer, oppføring og vedlikehold av bygninger.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Kirkeveien 466, 3143 KJØPMANNSKJÆR",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Fredrik Hvitstein Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326/roller",
+      "retrieved_at": "2026-10-12T16:12:08.4609526Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 935831326"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 21536,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935831326",
+      "retrieved_at": "2026-10-12T16:12:07.0854761Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 935831326 (FY2025)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935831326",
+      "retrieved_at": "2026-10-12T16:12:07.0854761Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 935831326 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2025-06-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Pål Richard Andersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326/roller",
+      "retrieved_at": "2026-10-12T16:12:08.4609526Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 935831326"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "41.000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Oppføring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "+ BYGG PROSJEKT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 935831326"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "FÆRDER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": -1965,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935831326",
+      "retrieved_at": "2026-10-12T16:12:07.0854761Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 935831326 (FY2025)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": -1965,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935831326",
+      "retrieved_at": "2026-10-12T16:12:07.0854761Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 935831326 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "935831326",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 935831326"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2025-07-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935831326",
+      "retrieved_at": "2026-10-12T16:12:07.0854761Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 935831326 (FY2025)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 30000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Salgskonsulent tjeneste innen bygg og anlegg.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 21536,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935831326",
+      "retrieved_at": "2026-10-12T16:12:07.0854761Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 935831326 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T14:00:46.4611129Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in FÆRDER, NACE 41.000, Employee count not registered. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:44.8802253Z",
+  "last_changed": "2026-10-12T16:12:04.7326651Z",
+  "created_at": "2026-10-12T16:12:04.7326651Z"
+}

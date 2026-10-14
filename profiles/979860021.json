@@ -1,0 +1,16 @@
+{
+  "orgnr": "979860021",
+  "legal_name": "",
+  "status": "fetch_failed",
+  "facts": {},
+  "history": [],
+  "summary": "Failed to fetch official registration: entity not found in Enhetsregisteret: 979860021",
+  "changes_summary": [],
+  "gaps": [],
+  "last_verified": "2026-10-12T16:04:27.2258812Z",
+  "last_changed": "2026-10-12T16:04:27.2258812Z",
+  "created_at": "2026-10-12T16:04:27.2258812Z",
+  "errors": [
+    "Registry fetch failed: entity not found in Enhetsregisteret: 979860021"
+  ]
+}

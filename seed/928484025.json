@@ -1,0 +1,150 @@
+{
+  "orgnr": "928484025",
+  "legal_name": "2013-SKJETTEN FELLESFORENING",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Formålet til 2013- Festen Fellesforening er å skape en møteplass og fremme det lokale kultur- og foreningslivet inkludert idrett på Skjetten. Møteplassen skapes gjennom en årlig utendørs festival for alle lag og foreninger som holder til på Skjetten,",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928484025",
+      "retrieved_at": "2026-10-14T14:05:37.0861562Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "c/o Terje Ferstad, Landskronaveien 366, 2013 SKJETTEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928484025",
+      "retrieved_at": "2026-10-14T14:05:37.0861562Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928484025",
+      "retrieved_at": "2026-10-14T14:05:37.0861562Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Terje Ferstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928484025/roller",
+      "retrieved_at": "2026-10-14T14:05:41.0860339Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 928484025"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2021-12-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928484025",
+      "retrieved_at": "2026-10-14T14:05:37.0861562Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928484025",
+      "retrieved_at": "2026-10-14T14:05:37.0861562Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928484025",
+      "retrieved_at": "2026-10-14T14:05:37.0861562Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "2013-SKJETTEN FELLESFORENING",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928484025",
+      "retrieved_at": "2026-10-14T14:05:37.0861562Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 928484025"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "LILLESTRØM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928484025",
+      "retrieved_at": "2026-10-14T14:05:37.0861562Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928484025",
+      "retrieved_at": "2026-10-14T14:05:37.0861562Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "928484025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928484025",
+      "retrieved_at": "2026-10-14T14:05:37.0861562Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 928484025"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2022-01-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928484025",
+      "retrieved_at": "2026-10-14T14:05:37.0861562Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928484025",
+      "retrieved_at": "2026-10-14T14:05:37.0861562Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928484025",
+      "retrieved_at": "2026-10-14T14:05:37.0861562Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928484025",
+      "retrieved_at": "2026-10-14T14:05:37.0861562Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928484025",
+      "retrieved_at": "2026-10-14T14:05:37.0861562Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in LILLESTRØM, NACE 94.992, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:05:35.3652861Z",
+  "last_changed": "2026-10-14T14:05:35.3652861Z",
+  "created_at": "2026-10-14T14:05:35.3652861Z"
+}

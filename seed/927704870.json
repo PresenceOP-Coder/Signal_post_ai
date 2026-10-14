@@ -1,0 +1,134 @@
+{
+  "orgnr": "927704870",
+  "legal_name": "1993 SOLLY BYGG OG ANLEGG",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Håndverkerarbeid innenfor bygg og anlegg. Alt innen byggebransjen, maling og renovasjon. Drenering og avløpsanlegg. Gartnerarbeid og vaktmesterservice.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927704870",
+      "retrieved_at": "2026-10-14T14:04:26.2108873Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Åsgaten 12, 3060 SVELVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927704870",
+      "retrieved_at": "2026-10-14T14:04:26.2108873Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927704870",
+      "retrieved_at": "2026-10-14T14:04:26.2108873Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "43.340",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927704870",
+      "retrieved_at": "2026-10-14T14:04:26.2108873Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Maler- og glassarbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927704870",
+      "retrieved_at": "2026-10-14T14:04:26.2108873Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1993 SOLLY BYGG OG ANLEGG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927704870",
+      "retrieved_at": "2026-10-14T14:04:26.2108873Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 927704870"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927704870",
+      "retrieved_at": "2026-10-14T14:04:26.2108873Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ENK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927704870",
+      "retrieved_at": "2026-10-14T14:04:26.2108873Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ENK (Enkeltpersonforetak)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "927704870",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927704870",
+      "retrieved_at": "2026-10-14T14:04:26.2108873Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 927704870"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2021-09-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927704870",
+      "retrieved_at": "2026-10-14T14:04:26.2108873Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "8200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927704870",
+      "retrieved_at": "2026-10-14T14:04:26.2108873Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927704870",
+      "retrieved_at": "2026-10-14T14:04:26.2108873Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927704870",
+      "retrieved_at": "2026-10-14T14:04:26.2108873Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927704870",
+      "retrieved_at": "2026-10-14T14:04:26.2108873Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active ENK in DRAMMEN, NACE 43.340, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:04:24.713992Z",
+  "last_changed": "2026-10-14T14:04:24.713992Z",
+  "created_at": "2026-10-14T14:04:24.713992Z"
+}

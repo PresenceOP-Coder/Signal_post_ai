@@ -1,0 +1,128 @@
+{
+  "orgnr": "934954394",
+  "legal_name": "\"HYDRO-NAUTA\" SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Reparasjon og vedlikehold av skip og båter.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934954394",
+      "retrieved_at": "2026-10-14T14:00:41.4615173Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "ul. Budowniczych  12, 81-336 GDYNIA, Polen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934954394",
+      "retrieved_at": "2026-10-14T14:00:41.4615173Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934954394",
+      "retrieved_at": "2026-10-14T14:00:41.4615173Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "33.150",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934954394",
+      "retrieved_at": "2026-10-14T14:00:41.4615173Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Reparasjon og vedlikehold av sivile skip og båter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934954394",
+      "retrieved_at": "2026-10-14T14:00:41.4615173Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "\"HYDRO-NAUTA\" SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934954394",
+      "retrieved_at": "2026-10-14T14:00:41.4615173Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 934954394"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934954394",
+      "retrieved_at": "2026-10-14T14:00:41.4615173Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: NUF (Norskregistrert utenlandsk foretak)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "934954394",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934954394",
+      "retrieved_at": "2026-10-14T14:00:41.4615173Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 934954394"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2025-02-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934954394",
+      "retrieved_at": "2026-10-14T14:00:41.4615173Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934954394",
+      "retrieved_at": "2026-10-14T14:00:41.4615173Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934954394",
+      "retrieved_at": "2026-10-14T14:00:41.4615173Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [
+    {
+      "key": "activity_description",
+      "old_value": null,
+      "new_value": "Reparasjon og vedlikehold av skip og båter.",
+      "changed_at": "2026-10-12T16:11:18.0517313Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934954394",
+      "reason": "Fact activity_description added"
+    },
+    {
+      "key": "business_register_status",
+      "old_value": null,
+      "new_value": false,
+      "changed_at": "2026-10-12T16:11:18.0517313Z",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934954394",
+      "reason": "Fact business_register_status added"
+    }
+  ],
+  "summary": "Active entity, NACE 33.150, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "New fact activity_description recorded as Reparasjon og vedlikehold av skip og båter. on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/934954394)",
+    "New fact business_register_status recorded as false on 2026-10-12 (https://data.brreg.no/enhetsregisteret/api/enheter/934954394)"
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:40.7184082Z",
+  "last_changed": "2026-10-12T16:11:18.0517313Z",
+  "created_at": "2026-10-12T16:08:22.2839173Z"
+}

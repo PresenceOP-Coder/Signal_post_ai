@@ -1,0 +1,126 @@
+{
+  "orgnr": "980594882",
+  "legal_name": "20:20 LOGISTICS LTD",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Salg og markedsføring av varer og tjenester.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980594882",
+      "retrieved_at": "2026-10-14T14:05:29.0860143Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "0191 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980594882",
+      "retrieved_at": "2026-10-14T14:05:29.0860143Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980594882",
+      "retrieved_at": "2026-10-14T14:05:29.0860143Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "46.500",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980594882",
+      "retrieved_at": "2026-10-14T14:05:29.0860143Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Engroshandel med informasjons- og kommunikasjonsteknologiutstyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980594882",
+      "retrieved_at": "2026-10-14T14:05:29.0860143Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "20:20 LOGISTICS LTD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980594882",
+      "retrieved_at": "2026-10-14T14:05:29.0860143Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 980594882"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980594882",
+      "retrieved_at": "2026-10-14T14:05:29.0860143Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980594882",
+      "retrieved_at": "2026-10-14T14:05:29.0860143Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: NUF (Norskregistrert utenlandsk foretak)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "980594882",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980594882",
+      "retrieved_at": "2026-10-14T14:05:29.0860143Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 980594882"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "Crew Hall Enterprice Park, Weston Road, CW16UE Cheshire, Storbritannia",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980594882",
+      "retrieved_at": "2026-10-14T14:05:29.0860143Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "1999-03-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980594882",
+      "retrieved_at": "2026-10-14T14:05:29.0860143Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980594882",
+      "retrieved_at": "2026-10-14T14:05:29.0860143Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980594882",
+      "retrieved_at": "2026-10-14T14:05:29.0860143Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active NUF in OSLO, NACE 46.500, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:05:27.4700006Z",
+  "last_changed": "2026-10-14T14:05:27.4700006Z",
+  "created_at": "2026-10-14T14:05:27.4700006Z"
+}

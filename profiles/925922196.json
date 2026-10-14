@@ -1,0 +1,343 @@
+{
+  "orgnr": "925922196",
+  "legal_name": "07000 MOBILITY AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Markedsføringssamarbeid med transportselskaper",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Kokstadvegen 8, 5257 KOKSTAD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": 2021565,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": 2126425,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 2137144,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2025)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2020-10-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "73.110",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Reklamebyråvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "07000 MOBILITY AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 925922196"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": 287258,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": 159472,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": -91290,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2025)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": 311237,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": 110996,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": -153828,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "925922196",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 925922196"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2020-11-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2023": {
+      "key": "revenue",
+      "value": 5057708,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2023)"
+    },
+    "revenue:2024": {
+      "key": "revenue",
+      "value": 5258466,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2024)"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 5274759,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2025)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 1500000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Drifte og videreutvikle markedsføringssamarbeidet knyttet til merkevaren 07000, etablere franchiseavtaler med transportselskaper, samt virksomhet i tilknytning til dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 2468848,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 2769260,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 2666339,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925922196",
+      "retrieved_at": "2026-10-12T16:12:25.0856376Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 925922196 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
+      "retrieved_at": "2026-10-14T14:00:52.3359377Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in BERGEN, NACE 73.110, Employee count not registered. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:00:50.7784498Z",
+  "last_changed": "2026-10-12T16:12:22.5147739Z",
+  "created_at": "2026-10-12T16:12:22.5147739Z"
+}

@@ -1,0 +1,132 @@
+{
+  "orgnr": "974760673",
+  "legal_name": "REGISTERENHETEN I BRØNNØYSUND",
+  "status": "active",
+  "facts": {
+    "business_address": {
+      "key": "business_address",
+      "value": "Havnegata 48, 8900 BRØNNØYSUND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974760673",
+      "retrieved_at": "2026-10-12T15:53:28.6204801Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "75 00 75 09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974760673",
+      "retrieved_at": "2026-10-12T15:53:28.6204801Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "employee_count": {
+      "key": "employee_count",
+      "value": 487,
+      "unit": "count",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974760673",
+      "retrieved_at": "2026-10-12T15:53:28.6204801Z",
+      "origin": "registry",
+      "evidence": "Registered employee count in NAV/Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "84.110",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974760673",
+      "retrieved_at": "2026-10-12T15:53:28.6204801Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Generell offentlig administrasjon",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974760673",
+      "retrieved_at": "2026-10-12T15:53:28.6204801Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "REGISTERENHETEN I BRØNNØYSUND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974760673",
+      "retrieved_at": "2026-10-12T15:53:28.6204801Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 974760673"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "BRØNNØY",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974760673",
+      "retrieved_at": "2026-10-12T15:53:28.6204801Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ORGL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974760673",
+      "retrieved_at": "2026-10-12T15:53:28.6204801Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ORGL (Organisasjonsledd)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "974760673",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974760673",
+      "retrieved_at": "2026-10-12T15:53:28.6204801Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 974760673"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "Postboks 900, 8910 BRØNNØYSUND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974760673",
+      "retrieved_at": "2026-10-12T15:53:28.6204801Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "1995-08-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974760673",
+      "retrieved_at": "2026-10-12T15:53:28.6204801Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974760673",
+      "retrieved_at": "2026-10-12T15:53:28.6204801Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974760673",
+      "retrieved_at": "2026-10-12T15:53:28.6204801Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://www.brreg.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974760673",
+      "retrieved_at": "2026-10-12T15:53:28.6204801Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active ORGL in BRØNNØY, NACE 84.110, 487 employees. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-12T16:04:27.2242209Z",
+  "last_changed": "2026-10-12T16:00:08.7558093Z",
+  "created_at": "2026-10-12T16:00:08.7558093Z"
+}

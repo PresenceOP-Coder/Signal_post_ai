@@ -1,0 +1,172 @@
+{
+  "orgnr": "991859926",
+  "legal_name": "123SPORT DA",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Import og salg av sportsartikler.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "c/o Frode Hansen, Bysteinveien 10B, 4331 ÅLGÅRD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "47 23 47 82",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2007-10-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Frode Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926/roller",
+      "retrieved_at": "2026-10-14T14:02:42.5857067Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 991859926"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "47.631",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Detaljhandel med sportsvarer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "123SPORT DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 991859926"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "GJESDAL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: DA (Ansvarlig selskap med delt ansvar)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "991859926",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 991859926"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2007-10-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2300",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Salg av sportsutstyr med hovedvekt på golf og fiske utstyr. Importere varer, og selge videre i nettbutikk.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://www.123Sport.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991859926",
+      "retrieved_at": "2026-10-14T14:02:38.8359773Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active DA in GJESDAL, NACE 47.631, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:02:37.1997974Z",
+  "last_changed": "2026-10-14T14:02:37.1997974Z",
+  "created_at": "2026-10-14T14:02:37.1997974Z"
+}

@@ -1,0 +1,134 @@
+{
+  "orgnr": "928804933",
+  "legal_name": "15/2314 SELNES SØR",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Eierseksjonssameie",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928804933",
+      "retrieved_at": "2026-10-14T14:03:09.3357881Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Nordre Selnesveien 18, 8402 SORTLAND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928804933",
+      "retrieved_at": "2026-10-14T14:03:09.3357881Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928804933",
+      "retrieved_at": "2026-10-14T14:03:09.3357881Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Even Jamt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928804933/roller",
+      "retrieved_at": "2026-10-14T14:03:13.0861194Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 928804933"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2020-07-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928804933",
+      "retrieved_at": "2026-10-14T14:03:09.3357881Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "97.001",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928804933",
+      "retrieved_at": "2026-10-14T14:03:09.3357881Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928804933",
+      "retrieved_at": "2026-10-14T14:03:09.3357881Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "15/2314 SELNES SØR",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928804933",
+      "retrieved_at": "2026-10-14T14:03:09.3357881Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 928804933"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "SORTLAND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928804933",
+      "retrieved_at": "2026-10-14T14:03:09.3357881Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ESEK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928804933",
+      "retrieved_at": "2026-10-14T14:03:09.3357881Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ESEK (Eierseksjonssameie)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "928804933",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928804933",
+      "retrieved_at": "2026-10-14T14:03:09.3357881Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 928804933"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2022-02-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928804933",
+      "retrieved_at": "2026-10-14T14:03:09.3357881Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928804933",
+      "retrieved_at": "2026-10-14T14:03:09.3357881Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928804933",
+      "retrieved_at": "2026-10-14T14:03:09.3357881Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active ESEK in SORTLAND, NACE 97.001, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:03:07.8472366Z",
+  "last_changed": "2026-10-14T14:03:07.8472366Z",
+  "created_at": "2026-10-14T14:03:07.8472366Z"
+}

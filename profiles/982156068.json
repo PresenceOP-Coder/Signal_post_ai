@@ -1,0 +1,165 @@
+{
+  "orgnr": "982156068",
+  "legal_name": "2 IN TRANSIT ANS",
+  "status": "under_liquidation",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Underholdningstjenester, spesielt innen sang og musikk.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Bjørkedalen, 6120 FOLKESTAD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Knut Arve Eilefsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068/roller",
+      "retrieved_at": "2026-10-14T14:05:06.2111051Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 982156068"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "70 05 20 66",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2000-06-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "90.201",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "2 IN TRANSIT ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 982156068"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "VOLDA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ANS (Ansvarlig selskap med solidarisk ansvar)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "982156068",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 982156068"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2000-07-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2300",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "under_liquidation",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Under liquidation according to Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Underholdningstjenester, spesielt innen sang og musikk.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982156068",
+      "retrieved_at": "2026-10-14T14:05:02.3360155Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Under Liquidation ANS in VOLDA, NACE 90.201, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:05:00.6010987Z",
+  "last_changed": "2026-10-14T14:05:00.6010987Z",
+  "created_at": "2026-10-14T14:05:00.6010987Z"
+}

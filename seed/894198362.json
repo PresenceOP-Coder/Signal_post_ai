@@ -1,0 +1,116 @@
+{
+  "orgnr": "894198362",
+  "legal_name": "1314981 ONTARIO LIMITED",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Utenlandsk enhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/894198362",
+      "retrieved_at": "2026-10-14T14:02:51.8362547Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "60 Hanson Road Unit 128, LB 2P6 MISSISSAUGA ONTARIO, Canada",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/894198362",
+      "retrieved_at": "2026-10-14T14:02:51.8362547Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/894198362",
+      "retrieved_at": "2026-10-14T14:02:51.8362547Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "+14169070518",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/894198362",
+      "retrieved_at": "2026-10-14T14:02:51.8362547Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "1998-09-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/894198362",
+      "retrieved_at": "2026-10-14T14:02:51.8362547Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1314981 ONTARIO LIMITED",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/894198362",
+      "retrieved_at": "2026-10-14T14:02:51.8362547Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 894198362"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "UTLA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/894198362",
+      "retrieved_at": "2026-10-14T14:02:51.8362547Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: UTLA (Utenlandsk enhet)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "894198362",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/894198362",
+      "retrieved_at": "2026-10-14T14:02:51.8362547Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 894198362"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2009-06-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/894198362",
+      "retrieved_at": "2026-10-14T14:02:51.8362547Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/894198362",
+      "retrieved_at": "2026-10-14T14:02:51.8362547Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/894198362",
+      "retrieved_at": "2026-10-14T14:02:51.8362547Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://www.aacomputing.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/894198362",
+      "retrieved_at": "2026-10-14T14:02:51.8362547Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active entity, Employee count not registered. No annual accounts on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "No annual accounts filed with Regnskapsregisteret (common for non-commercial or exempt entities).",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:02:50.2108335Z",
+  "last_changed": "2026-10-14T14:02:50.2108335Z",
+  "created_at": "2026-10-14T14:02:50.2108335Z"
+}

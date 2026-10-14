@@ -1,0 +1,356 @@
+{
+  "orgnr": "975484548",
+  "legal_name": "2. SANDNES SJØSPEIDERGRUPPE AV NSF",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Sjøspeidergruppe",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Daleveien 110, 4328 SANDNES",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "company_phone": {
+      "key": "company_phone",
+      "value": "51 66 14 93",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Official telephone listed in Enhetsregisteret"
+    },
+    "contact_page": {
+      "key": "contact_page",
+      "value": "https://www.2sandnessjo.no/About/Contact",
+      "source_url": "https://www.2sandnessjo.no",
+      "retrieved_at": "2026-10-14T14:05:25.834994Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "equity:2017": {
+      "key": "equity",
+      "value": 1435472,
+      "unit": "NOK",
+      "period": "2017",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2017)"
+    },
+    "equity:2018": {
+      "key": "equity",
+      "value": 1580032,
+      "unit": "NOK",
+      "period": "2018",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2018)"
+    },
+    "equity:2019": {
+      "key": "equity",
+      "value": 1482878,
+      "unit": "NOK",
+      "period": "2019",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2019)"
+    },
+    "fiscal_year:2017": {
+      "key": "fiscal_year",
+      "value": "2017",
+      "period": "2017",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2017)"
+    },
+    "fiscal_year:2018": {
+      "key": "fiscal_year",
+      "value": "2018",
+      "period": "2018",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2018)"
+    },
+    "fiscal_year:2019": {
+      "key": "fiscal_year",
+      "value": "2019",
+      "period": "2019",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2019)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "1968-11-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "94.992",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2019",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "2. SANDNES SJØSPEIDERGRUPPE AV NSF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 975484548"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "SANDNES",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2017": {
+      "key": "net_result",
+      "value": -254867,
+      "unit": "NOK",
+      "period": "2017",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2017)"
+    },
+    "net_result:2018": {
+      "key": "net_result",
+      "value": 145697,
+      "unit": "NOK",
+      "period": "2018",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2018)"
+    },
+    "net_result:2019": {
+      "key": "net_result",
+      "value": 7905,
+      "unit": "NOK",
+      "period": "2019",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2019)"
+    },
+    "operating_result:2017": {
+      "key": "operating_result",
+      "value": -261628,
+      "unit": "NOK",
+      "period": "2017",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2017)"
+    },
+    "operating_result:2018": {
+      "key": "operating_result",
+      "value": 139664,
+      "unit": "NOK",
+      "period": "2018",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2018)"
+    },
+    "operating_result:2019": {
+      "key": "operating_result",
+      "value": 6231,
+      "unit": "NOK",
+      "period": "2019",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2019)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "FLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: FLI (Forening/lag/innretning)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "975484548",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 975484548"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "1996-03-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2017": {
+      "key": "revenue",
+      "value": 1398807,
+      "unit": "NOK",
+      "period": "2017",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2017)"
+    },
+    "revenue:2018": {
+      "key": "revenue",
+      "value": 1325903,
+      "unit": "NOK",
+      "period": "2018",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2018)"
+    },
+    "revenue:2019": {
+      "key": "revenue",
+      "value": 1076532,
+      "unit": "NOK",
+      "period": "2019",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2019)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "7000",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "social_links": {
+      "key": "social_links",
+      "value": "https://www.facebook.com/2sandnessjo",
+      "source_url": "https://www.2sandnessjo.no",
+      "retrieved_at": "2026-10-14T14:05:25.834994Z",
+      "origin": "page",
+      "evidence": "Extracted from verified company website (Page contains matching 9-digit organisation number)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "total_assets:2017": {
+      "key": "total_assets",
+      "value": 1482378,
+      "unit": "NOK",
+      "period": "2017",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2017)"
+    },
+    "total_assets:2018": {
+      "key": "total_assets",
+      "value": 1621644,
+      "unit": "NOK",
+      "period": "2018",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2018)"
+    },
+    "total_assets:2019": {
+      "key": "total_assets",
+      "value": 1622514,
+      "unit": "NOK",
+      "period": "2019",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975484548",
+      "retrieved_at": "2026-10-14T14:05:23.5861297Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 975484548 (FY2019)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    },
+    "website": {
+      "key": "website",
+      "value": "https://www.2sandnessjo.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548",
+      "retrieved_at": "2026-10-14T14:05:21.7110399Z",
+      "origin": "registry",
+      "evidence": "Official website listed in Enhetsregisteret"
+    }
+  },
+  "history": [],
+  "summary": "Active FLI in SANDNES, NACE 94.992, Employee count not registered. Annual accounts for FY2019 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:05:19.9713451Z",
+  "last_changed": "2026-10-14T14:05:19.9713451Z",
+  "created_at": "2026-10-14T14:05:19.9713451Z"
+}

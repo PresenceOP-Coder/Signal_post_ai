@@ -1,0 +1,339 @@
+{
+  "orgnr": "931701088",
+  "legal_name": "1846 CLAUSEN HOLDING AS",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Holdingselskap.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Hammersborggata 25, 0179 OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "chair": {
+      "key": "chair",
+      "value": "Knut Peter Bødtker Clausen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088/roller",
+      "retrieved_at": "2026-10-14T14:04:06.3358484Z",
+      "origin": "roles",
+      "evidence": "Registered Styrets Leder (Board Chair) in Enhetsregisteret for 931701088"
+    },
+    "equity:2023": {
+      "key": "equity",
+      "value": 1536526,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931701088",
+      "retrieved_at": "2026-10-14T14:04:04.3357973Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931701088 (FY2023)"
+    },
+    "equity:2024": {
+      "key": "equity",
+      "value": 894654,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931701088",
+      "retrieved_at": "2026-10-14T14:04:04.3357973Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931701088 (FY2024)"
+    },
+    "equity:2025": {
+      "key": "equity",
+      "value": 477613,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931701088",
+      "retrieved_at": "2026-10-14T14:04:04.3357973Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931701088 (FY2025)"
+    },
+    "fiscal_year:2023": {
+      "key": "fiscal_year",
+      "value": "2023",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931701088",
+      "retrieved_at": "2026-10-14T14:04:04.3357973Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931701088 (FY2023)"
+    },
+    "fiscal_year:2024": {
+      "key": "fiscal_year",
+      "value": "2024",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931701088",
+      "retrieved_at": "2026-10-14T14:04:04.3357973Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931701088 (FY2024)"
+    },
+    "fiscal_year:2025": {
+      "key": "fiscal_year",
+      "value": "2025",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931701088",
+      "retrieved_at": "2026-10-14T14:04:04.3357973Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931701088 (FY2025)"
+    },
+    "founded_date": {
+      "key": "founded_date",
+      "value": "2023-06-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Official founding date registered with Enhetsregisteret"
+    },
+    "general_manager": {
+      "key": "general_manager",
+      "value": "Knut Peter Bødtker Clausen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088/roller",
+      "retrieved_at": "2026-10-14T14:04:06.3358484Z",
+      "origin": "roles",
+      "evidence": "Registered Daglig Leder (General Manager) in Enhetsregisteret for 931701088"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "68.200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1846 CLAUSEN HOLDING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 931701088"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2023": {
+      "key": "net_result",
+      "value": 10096,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931701088",
+      "retrieved_at": "2026-10-14T14:04:04.3357973Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931701088 (FY2023)"
+    },
+    "net_result:2024": {
+      "key": "net_result",
+      "value": 22127,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931701088",
+      "retrieved_at": "2026-10-14T14:04:04.3357973Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931701088 (FY2024)"
+    },
+    "net_result:2025": {
+      "key": "net_result",
+      "value": 52959,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931701088",
+      "retrieved_at": "2026-10-14T14:04:04.3357973Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931701088 (FY2025)"
+    },
+    "operating_result:2023": {
+      "key": "operating_result",
+      "value": -5285,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931701088",
+      "retrieved_at": "2026-10-14T14:04:04.3357973Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931701088 (FY2023)"
+    },
+    "operating_result:2024": {
+      "key": "operating_result",
+      "value": -6108,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931701088",
+      "retrieved_at": "2026-10-14T14:04:04.3357973Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931701088 (FY2024)"
+    },
+    "operating_result:2025": {
+      "key": "operating_result",
+      "value": -5354,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931701088",
+      "retrieved_at": "2026-10-14T14:04:04.3357973Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931701088 (FY2025)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: AS (Aksjeselskap)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "931701088",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 931701088"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2023-07-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2025": {
+      "key": "revenue",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931701088",
+      "retrieved_at": "2026-10-14T14:04:04.3357973Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931701088 (FY2025)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "2100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "share_capital": {
+      "key": "share_capital",
+      "value": 32000,
+      "unit": "NOK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Registered share capital (Aksjekapital)"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "statutory_purpose": {
+      "key": "statutory_purpose",
+      "value": "Investere i selskaper og eiendom og alt annet som naturlig faller sammen med dette, herunder å delta i andre selskaper med lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretagende.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Statutory corporate purpose registered with Enhetsregisteret"
+    },
+    "total_assets:2023": {
+      "key": "total_assets",
+      "value": 1537802,
+      "unit": "NOK",
+      "period": "2023",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931701088",
+      "retrieved_at": "2026-10-14T14:04:04.3357973Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931701088 (FY2023)"
+    },
+    "total_assets:2024": {
+      "key": "total_assets",
+      "value": 900902,
+      "unit": "NOK",
+      "period": "2024",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931701088",
+      "retrieved_at": "2026-10-14T14:04:04.3357973Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931701088 (FY2024)"
+    },
+    "total_assets:2025": {
+      "key": "total_assets",
+      "value": 492544,
+      "unit": "NOK",
+      "period": "2025",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931701088",
+      "retrieved_at": "2026-10-14T14:04:04.3357973Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 931701088 (FY2025)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931701088",
+      "retrieved_at": "2026-10-14T14:04:02.5861163Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active AS in OSLO, NACE 68.200, Employee count not registered. Annual accounts for FY2025 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:04:00.9840842Z",
+  "last_changed": "2026-10-14T14:04:00.9840842Z",
+  "created_at": "2026-10-14T14:04:00.9840842Z"
+}

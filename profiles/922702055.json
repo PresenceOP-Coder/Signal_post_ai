@@ -1,0 +1,208 @@
+{
+  "orgnr": "922702055",
+  "legal_name": "1982 TORKILD SØRØY",
+  "status": "active",
+  "facts": {
+    "activity_description": {
+      "key": "activity_description",
+      "value": "Vaktmestertjenester, transport.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922702055",
+      "retrieved_at": "2026-10-14T14:04:22.7110528Z",
+      "origin": "registry",
+      "evidence": "Registered business activity description in Enhetsregisteret"
+    },
+    "business_address": {
+      "key": "business_address",
+      "value": "Arne Garborgs veg 39C, 7071 TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922702055",
+      "retrieved_at": "2026-10-14T14:04:22.7110528Z",
+      "origin": "registry",
+      "evidence": "Official business address registered with Enhetsregisteret"
+    },
+    "business_register_status": {
+      "key": "business_register_status",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922702055",
+      "retrieved_at": "2026-10-14T14:04:22.7110528Z",
+      "origin": "registry",
+      "evidence": "Foretaksregisteret (Register of Business Enterprises) status"
+    },
+    "equity:2020": {
+      "key": "equity",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2020",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922702055",
+      "retrieved_at": "2026-10-14T14:04:24.7111081Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922702055 (FY2020)"
+    },
+    "fiscal_year:2020": {
+      "key": "fiscal_year",
+      "value": "2020",
+      "period": "2020",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922702055",
+      "retrieved_at": "2026-10-14T14:04:24.7111081Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922702055 (FY2020)"
+    },
+    "industry_code": {
+      "key": "industry_code",
+      "value": "81.100",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922702055",
+      "retrieved_at": "2026-10-14T14:04:22.7110528Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification code"
+    },
+    "industry_description": {
+      "key": "industry_description",
+      "value": "Kombinerte tjenester tilknyttet eiendomsdrift",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922702055",
+      "retrieved_at": "2026-10-14T14:04:22.7110528Z",
+      "origin": "registry",
+      "evidence": "Primary NACE industry classification description"
+    },
+    "latest_accounts_year": {
+      "key": "latest_accounts_year",
+      "value": "2020",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922702055",
+      "retrieved_at": "2026-10-14T14:04:22.7110528Z",
+      "origin": "registry",
+      "evidence": "Year of latest annual accounts submitted to registry"
+    },
+    "legal_name": {
+      "key": "legal_name",
+      "value": "1982 TORKILD SØRØY",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922702055",
+      "retrieved_at": "2026-10-14T14:04:22.7110528Z",
+      "origin": "registry",
+      "evidence": "Official registered legal name in Enhetsregisteret for 922702055"
+    },
+    "municipality": {
+      "key": "municipality",
+      "value": "TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922702055",
+      "retrieved_at": "2026-10-14T14:04:22.7110528Z",
+      "origin": "registry",
+      "evidence": "Municipality of business address"
+    },
+    "net_result:2020": {
+      "key": "net_result",
+      "value": 187108,
+      "unit": "NOK",
+      "period": "2020",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922702055",
+      "retrieved_at": "2026-10-14T14:04:24.7111081Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922702055 (FY2020)"
+    },
+    "operating_result:2020": {
+      "key": "operating_result",
+      "value": 187108,
+      "unit": "NOK",
+      "period": "2020",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922702055",
+      "retrieved_at": "2026-10-14T14:04:24.7111081Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922702055 (FY2020)"
+    },
+    "org_form": {
+      "key": "org_form",
+      "value": "ENK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922702055",
+      "retrieved_at": "2026-10-14T14:04:22.7110528Z",
+      "origin": "registry",
+      "evidence": "Registered corporate legal form: ENK (Enkeltpersonforetak)"
+    },
+    "org_number": {
+      "key": "org_number",
+      "value": "922702055",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922702055",
+      "retrieved_at": "2026-10-14T14:04:22.7110528Z",
+      "origin": "registry",
+      "evidence": "Official registration number in Enhetsregisteret: 922702055"
+    },
+    "postal_address": {
+      "key": "postal_address",
+      "value": "c/o Torkild Sørøy, Basunvegen 34, 7560 VIKHAMMER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922702055",
+      "retrieved_at": "2026-10-14T14:04:22.7110528Z",
+      "origin": "registry",
+      "evidence": "Official postal address registered with Enhetsregisteret"
+    },
+    "registered_date": {
+      "key": "registered_date",
+      "value": "2019-05-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922702055",
+      "retrieved_at": "2026-10-14T14:04:22.7110528Z",
+      "origin": "registry",
+      "evidence": "Date registered in Enhetsregisteret"
+    },
+    "revenue:2020": {
+      "key": "revenue",
+      "value": 406708,
+      "unit": "NOK",
+      "period": "2020",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922702055",
+      "retrieved_at": "2026-10-14T14:04:24.7111081Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922702055 (FY2020)"
+    },
+    "sector_code": {
+      "key": "sector_code",
+      "value": "8200",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922702055",
+      "retrieved_at": "2026-10-14T14:04:22.7110528Z",
+      "origin": "registry",
+      "evidence": "Institutional sector classification code"
+    },
+    "sector_description": {
+      "key": "sector_description",
+      "value": "Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922702055",
+      "retrieved_at": "2026-10-14T14:04:22.7110528Z",
+      "origin": "registry",
+      "evidence": "Institutional sector description"
+    },
+    "status": {
+      "key": "status",
+      "value": "active",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922702055",
+      "retrieved_at": "2026-10-14T14:04:22.7110528Z",
+      "origin": "registry",
+      "evidence": "Active entity in Enhetsregisteret"
+    },
+    "total_assets:2020": {
+      "key": "total_assets",
+      "value": 0,
+      "unit": "NOK",
+      "period": "2020",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922702055",
+      "retrieved_at": "2026-10-14T14:04:24.7111081Z",
+      "origin": "accounts",
+      "evidence": "Regnskapsregisteret official SELSKAP annual accounts for 922702055 (FY2020)"
+    },
+    "vat_registered": {
+      "key": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922702055",
+      "retrieved_at": "2026-10-14T14:04:22.7110528Z",
+      "origin": "registry",
+      "evidence": "Value Added Tax (MVA) register status"
+    }
+  },
+  "history": [],
+  "summary": "Active ENK in TRONDHEIM, NACE 81.100, Employee count not registered. Annual accounts for FY2020 on file.",
+  "changes_summary": [
+    "Baseline profile established; verified against official registries."
+  ],
+  "gaps": [
+    "Official website not listed in Enhetsregisteret.",
+    "Employee count not reported in Aa-register.",
+    "Email address not published in registry record.",
+    "Telephone number not published in registry record."
+  ],
+  "last_verified": "2026-10-14T14:04:20.9485818Z",
+  "last_changed": "2026-10-14T14:04:20.9485818Z",
+  "created_at": "2026-10-14T14:04:20.9485818Z"
+}
